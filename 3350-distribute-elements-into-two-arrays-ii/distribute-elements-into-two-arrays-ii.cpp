@@ -1,51 +1,52 @@
+#include <bits/stdc++.h>
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+
+using namespace std;
+using namespace __gnu_pbds;
+
+typedef tree<int, null_type, less_equal<int>, rb_tree_tag, tree_order_statistics_node_update> ordered_multiset; 
+
 class Solution {
 public:
-    int greaterCount(vector<int>& arr, int val) {
-        return arr.end() - upper_bound(arr.begin(), arr.end(), val);
-    }
-
     vector<int> resultArray(vector<int>& nums) {
         int n = nums.size();
-        
-        vector<int> left, right, ll, rr;
-        left.push_back(nums[0]);
-        right.push_back(nums[1]);
-        ll.push_back(nums[0]);
-        rr.push_back(nums[1]);
-        
-        int l = 0, r = 0;
-        
+        vector<int> arr1, arr2;
+        ordered_multiset arr1Set, arr2Set;
+        vector<int> result;
+        arr1.push_back(nums[0]);
+        arr1Set.insert(nums[0]);
+        arr2.push_back(nums[1]);
+        arr2Set.insert(nums[1]);
+
         for (int i = 2; i < n; i++) {
-            int x = greaterCount(left, nums[i]);
-            int y = greaterCount(right, nums[i]);
-            
-            if (x > y) {
-                
-                left.insert(left.end() - x , nums[i]);
-                ll.push_back(nums[i]);
-                l++;
-            } else if (x < y) {
-                
-                right.insert(right.end() - y, nums[i]);
-                rr.push_back(nums[i]);
-                r++;
-            } else {
-                if (l <= r) {
-                    
-                    left.insert(left.end() - x, nums[i]);
-                    ll.push_back(nums[i]);
-                    l++;
-                } else {
-                    
-                    right.insert(right.end() - y, nums[i]);
-                    rr.push_back(nums[i]);
-                    r++;
+            int greaterInArr1 = arr1Set.size() - arr1Set.order_of_key(nums[i]+1);
+            int greaterInArr2 = arr2Set.size() - arr2Set.order_of_key(nums[i]+1);
+
+            // cout << greaterInArr1 << " " << greaterInArr2 << endl;
+            if (greaterInArr1 > greaterInArr2) {
+                arr1.push_back(nums[i]);
+                arr1Set.insert(nums[i]);
+            } 
+            else if (greaterInArr1 < greaterInArr2) {
+                arr2.push_back(nums[i]);
+                arr2Set.insert(nums[i]);
+            } 
+            else {
+                if (arr1.size() <= arr2.size()) {
+                    arr1.push_back(nums[i]);
+                    arr1Set.insert(nums[i]);
+                } 
+                else {
+                    arr2.push_back(nums[i]);
+                    arr2Set.insert(nums[i]);
                 }
             }
         }
-        
-        
-        ll.insert(ll.end(), rr.begin(), rr.end());
-        return ll;
+
+        for (auto it: arr1) result.push_back(it);
+        for (auto it : arr2) result.push_back(it);
+
+        return result;
     }
 };
