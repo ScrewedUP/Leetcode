@@ -6,9 +6,9 @@ public:
         int turn=1,turn1=0;
         vector<vector<vector<long long>>> dp(n,vector<vector<long long>>(k+1,vector<long long>(2,LLONG_MIN)));
         long long ans=LLONG_MIN;
-        // for(int i=0;i<n;++i){
+        for(int i=0;i<n;++i){
             ans=max(ans,solve(0,turn1,k,nums,dp));
-        // }
+        }
         return ans;
     }
     long long solve(int i,int turn1,int k,vector<int>&nums,vector<vector<vector<long long>>> &dp){
