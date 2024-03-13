@@ -1,18 +1,33 @@
 #define ll long long
 class Solution {
 public:
+    int t[20001];
+    int solve(int idx,vector<int> &nums,unordered_map<int,int> &m){
+        if ( idx >= nums.size() ) return 0;
+        if ( t[idx] != -1 ) return t[idx];
+        int take = m[nums[idx]]*nums[idx];
+        int notTake = solve(idx+1,nums,m);
+        if ( idx + 1 < nums.size() && nums[idx] + 1 == nums[idx+1] ){
+            take += solve(idx+2,nums,m);
+        }
+        else if ( idx + 1 < nums.size() && nums[idx] + 1 != nums[idx+1] ){
+            take += solve(idx+1,nums,m);
+        }
+        
+        return t[idx] = max(take,notTake);
+    }
     int deleteAndEarn(vector<int>& nums) {
-        map<int,int> m;
+        unordered_map<int,int> m;
         int n = nums.size();
         for (int i = 0;i < n; i++){
             m[nums[i]]++;
         }
-        vector<int> dp(10002);
-        dp[0] = 0;
-        dp[1] = m[1];
-        for (int i = 2 ; i <= 10001; i++){
-            dp[i] = max(dp[i-1],dp[i-2]+ m[i]*i);
+        vector<int> ans;
+        for(auto it : m ){
+            ans.push_back(it.first);
         }
-        return dp[10001];
+        sort(ans.begin(),ans.end());
+        memset(t,-1,sizeof(t));
+        return solve(0,ans,m);
     }
 };
