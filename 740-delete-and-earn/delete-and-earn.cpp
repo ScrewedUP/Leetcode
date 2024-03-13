@@ -4,10 +4,10 @@ public:
     int deleteAndEarn(vector<int>& nums) {
         map<int,int> m;
         int n = nums.size();
-        for (int i=0;i<n;++i){
+        for (int i = 0;i < n; i++){
             m[nums[i]]++;
         }
-        vector<ll>dp(10002);
+        vector<int> dp(10002);
         dp[0] = 0;
         dp[1] = m[1];
         for (int i = 2 ; i <= 10001; i++){
