@@ -7,12 +7,12 @@ public:
         for (int i=0;i<n;++i){
             m[nums[i]]++;
         }
-        vector<ll>dp(2e4+1);
+        vector<ll>dp(10002);
         dp[0] = 0;
         dp[1] = m[1];
-        for (int i = 2 ; i <= 2e4; i++){
+        for (int i = 2 ; i <= 10001; i++){
             dp[i] = max(dp[i-1],dp[i-2]+ m[i]*i);
         }
-        return dp[2e4];
+        return dp[10001];
     }
 };
