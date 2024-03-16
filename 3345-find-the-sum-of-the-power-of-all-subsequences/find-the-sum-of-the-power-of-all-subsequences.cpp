@@ -8,14 +8,17 @@ public:
             return 0;
         }
         if ( t[idx][total] != -1 ) return t[idx][total];
-        int count = 0;
+        long long count = 0;
         //take
         if ( total + nums[idx] <= k ){
             count += solve(idx+1,n,k,total + nums[idx],nums);
             count %= M;
         }
-        
-        count += (2*solve(idx+1,n,k,total,nums))%M;
+        //Not take
+        count += solve(idx+1,n,k,total,nums)%M;
+
+        //In the Subsequence but do not take
+        count += solve(idx+1,n,k,total,nums)%M;
         return t[idx][total] = count%M;
     }
     int sumOfPower(vector<int>& nums, int k) {
