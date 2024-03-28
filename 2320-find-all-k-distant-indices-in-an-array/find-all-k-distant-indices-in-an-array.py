@@ -1,12 +1,10 @@
-class Solution(object):
-    
-    def findKDistantIndices(self, nums, key, k):
-        ans = []
-        for i in range(len(nums)):
-            for j in range(len(nums)):
-                if abs(i-j) <= k and nums[j] == key:
-                    ans.append(i)
-                    break
+class Solution:
+    def findKDistantIndices(self, nums: List[int], key: int, k: int) -> List[int]:
+        n = len(nums)
+        ans = set()
+        for i in range(n):
+            for j in range(n):
+                if abs(i-j) <= k and nums[j] == key :
+                    ans.add(i)
         
         return ans
-        
