@@ -1,9 +1,12 @@
 class Solution:
     def maxDepth(self, s: str) -> int:
-        cnt = 0
-        ans = 0
+        count=0
+        max1 =0
         for i in s:
-            if i == '(' : cnt+=1
-            if i == ')' : cnt -= 1
-            ans = max(ans,cnt)
-        return ans
+            if i == '(':
+                count+=1
+                if count > max1:
+                    max1 = count
+            if i == ')':
+                count-=1
+        return max1
