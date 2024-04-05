@@ -15,7 +15,7 @@ public:
                     j++;
                 }
                 if ( m.find(curr) != m.end() ){
-                    cout << curr << " ";
+                    // cout << curr << " ";
                     ok = false;
                     break;
                 }
