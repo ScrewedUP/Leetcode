@@ -11,10 +11,6 @@ public:
                 q.push_back(curr);
             }
             q.push_front(deck[i]);
-            // for(auto it : q){
-            //     cout << it << " ";
-            // }
-            // cout << endl;
         }
         vector<int> ans;
         for(auto it : q){
