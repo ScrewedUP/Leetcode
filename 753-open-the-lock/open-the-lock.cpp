@@ -1,39 +1,36 @@
 class Solution {
 public:
-    int openLock(vector<string> &deadends, string target) {
-        unordered_set<string> deadendsSet(deadends.begin(), deadends.end());
-        unordered_set<string> visited;
-        int result = 0;
-        if (deadendsSet.find("0000") != deadendsSet.end()) {
-            return -1;
-        }
-        queue<string> wheelQueue;
-        wheelQueue.push("0000");
-        visited.insert("0000");
-        while (!wheelQueue.empty()) {
-            int levelSize = wheelQueue.size();
-            while (levelSize--) {
-                string up, down, currentWheel = wheelQueue.front();
-                wheelQueue.pop();
-                if (currentWheel == target) {
-                    return result;
-                }
-                for (int i = 0; i < 4; i++) {
-                    down = up = currentWheel;
-                    char upCh = up[i], downCh = down[i];
-                    up[i] = (upCh == '9' ? '0' : upCh + 1);
-                    down[i] = (downCh == '0' ? '9' : downCh - 1);
-                    if (visited.find(up) == visited.end() && deadendsSet.find(up) == deadendsSet.end()) {
-                        wheelQueue.push(up);
-                        visited.insert(up);
+    int openLock(vector<string>& deadends, string target) {
+        queue<pair<string,int>> q;
+        q.push({"0000",0});
+        map<string,bool> mp;
+        for(auto &it:deadends)mp[it]=false;
+        if(mp.find("0000")!=mp.end())return -1;
+        mp["0000"]=false;
+        while(!q.empty()){
+            auto s=q.front().first;
+            int cnt=q.front().second;
+            q.pop();
+            if(s==target)return cnt;
+            for(int i=0;i<8;i++){
+                string t=s;
+                if(i<4){
+                    if(t[i%4]!='9')t[i%4]=t[i%4]+1;
+                    else t[i%4]='0';
+                    if(mp.find(t)==mp.end()){
+                        mp[t]=false;
+                        q.push({t,cnt+1});
                     }
-                    if (visited.find(down) == visited.end() && deadendsSet.find(down) == deadendsSet.end()) {
-                        wheelQueue.push(down);
-                        visited.insert(down);
+                }else{
+                    if(t[i%4]!='0')t[i%4]=t[i%4]-1;
+                    else t[i%4]='9';
+                    if(mp.find(t)==mp.end()){
+                        mp[t]=false;
+                        q.push({t,cnt+1});
                     }
                 }
             }
-            result++;
+            
         }
         return -1;
     }
