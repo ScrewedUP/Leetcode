@@ -19,10 +19,10 @@ public:
         }
 
         visited[row][col] = true;
-        int up = solve(grid, visited, row - 1, col); // up
-        int down = solve(grid, visited, row + 1, col); // down
-        int left = solve(grid, visited, row, col - 1); // left
-        int right = solve(grid, visited, row, col + 1); // right
+        int up = solve(grid, visited, row - 1, col); 
+        int down = solve(grid, visited, row + 1, col);
+        int left = solve(grid, visited, row, col - 1);
+        int right = solve(grid, visited, row, col + 1);
         int maxGold = max({ up, down, left, right }) + grid[row][col];
         visited[row][col] = false;
         return maxGold;
