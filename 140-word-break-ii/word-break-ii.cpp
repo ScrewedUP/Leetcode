@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<string> ans;
-     void solve(int idx, int start, vector<string> temp,string &s, map<string, int> &m, vector<vector<int>> &memo) {
+     void solve(int idx, int start, vector<string> temp,string &s, map<string, int> &m) {
         if (idx == s.size()) {
             string thisOne = s.substr(start, idx - start); 
             if ( m.find(thisOne) != m.end() ){
@@ -24,11 +24,11 @@ public:
         string temp1 = s.substr(start, idx - start + 1);
         if (m.find(temp1) != m.end()) {
             temp.push_back(temp1);
-            solve(idx + 1, idx + 1, temp,s, m, memo);
+            solve(idx + 1, idx + 1, temp,s, m);
             temp.pop_back();
         }
         
-        solve(idx + 1, start, temp,s, m, memo);
+        solve(idx + 1, start, temp,s, m);
     }
 
     vector<string> wordBreak(string s, vector<string>& wordDict) {
@@ -36,9 +36,8 @@ public:
         for (auto &word : wordDict) {
             m[word]++;
         }
-        vector<vector<int>> memo(s.size(), vector<int>(s.size(), -1));
         vector<string> temp;
-        solve(0, 0, temp,s, m, memo);
+        solve(0, 0, temp,s, m);
         return ans;
     }
 };
