@@ -11,14 +11,9 @@ public:
                 int sum = nums[i] + nums[j];
                 if ( sum <= 0 ) continue;
                 int idx = lower_bound(nums.begin(),nums.end(),sum) - nums.begin();
-                if ( idx == n ){
-                    int ele = n - j - 1;
-                    ans += ele;
-                }
-                else{
-                    int ele = idx - j - 1;
-                    ans += ele;
-                }
+                int ele = idx - j - 1;
+                ans += ele;
+                
             }
         }
         return ans;
