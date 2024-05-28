@@ -14,13 +14,14 @@ public:
             }
             maxi = max(maxi,right - left + 1);
         }
-        if ( maxi != 0 ) return maxi;
-        int p = 0;
-        int cnt = 0;
-        while ( s[p] == t[p] && p < s.size()){
-            cnt++;
-            p++;
-        }
-        return cnt;
+        return maxi;
+        // if ( maxi != 0 ) return maxi;
+        // int p = 0;
+        // int cnt = 0;
+        // while ( s[p] == t[p] && p < s.size()){
+        //     cnt++;
+        //     p++;
+        // }
+        // return cnt;
     }
 };
