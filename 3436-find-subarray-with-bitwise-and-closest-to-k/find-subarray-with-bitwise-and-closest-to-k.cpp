@@ -45,22 +45,22 @@ public:
     int minimumDifference(vector<int>& nums, int k) {
         int n = nums.size();
         SegmentTree segTree(nums);
-        int minDiff = INT_MAX;
+        int mini = INT_MAX;
 
-        for (int i = 0; i < n; ++i) {
+        for (int i = 0; i < n; i++) {
             int low = i, high = n - 1;
             while (low <= high) {
                 int mid = low + (high - low) / 2;
-                int currentAND = segTree.rangeAND(i, mid);
+                int curr = segTree.rangeAND(i, mid);
 
-                int currentDiff = abs(k - currentAND);
-                minDiff = min(minDiff, currentDiff);
+                int diff = abs(k - curr);
+                mini = min(mini, diff);
 
-                if (currentDiff == 0) {
+                if (diff == 0) {
                     return 0; 
                 }
 
-                if (currentAND < k) {
+                if (curr < k) {
                     high = mid - 1; 
                 } else {
                     low = mid + 1; 
@@ -68,6 +68,6 @@ public:
             }
         }
 
-        return minDiff;
+        return mini;
     }
 };
