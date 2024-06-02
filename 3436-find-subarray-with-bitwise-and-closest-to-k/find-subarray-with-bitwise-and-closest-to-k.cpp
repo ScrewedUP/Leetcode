@@ -48,7 +48,8 @@ public:
         int mini = INT_MAX;
 
         for (int i = 0; i < n; i++) {
-            int low = i, high = n - 1;
+            int low = i;
+            int high = n - 1;
             while (low <= high) {
                 int mid = low + (high - low) / 2;
                 int curr = segTree.rangeAND(i, mid);
@@ -56,15 +57,9 @@ public:
                 int diff = abs(k - curr);
                 mini = min(mini, diff);
 
-                if (diff == 0) {
-                    return 0; 
-                }
-
-                if (curr < k) {
-                    high = mid - 1; 
-                } else {
-                    low = mid + 1; 
-                }
+                if (diff == 0) return 0; 
+                if (curr < k) high = mid - 1; 
+                else low = mid + 1; 
             }
         }
 
