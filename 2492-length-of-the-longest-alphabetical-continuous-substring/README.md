@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring">Length of the Longest Alphabetical Continuous Substring</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>An <strong>alphabetical continuous string</strong> is a string consisting of consecutive letters in the alphabet. In other words, it is any substring of the string <code>&quot;abcdefghijklmnopqrstuvwxyz&quot;</code>.</p>
+<h2><a href="https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring">2492. Length of the Longest Alphabetical Continuous Substring</a></h2><h3>Medium</h3><hr><p>An <strong>alphabetical continuous string</strong> is a string consisting of consecutive letters in the alphabet. In other words, it is any substring of the string <code>&quot;abcdefghijklmnopqrstuvwxyz&quot;</code>.</p>
 
 <ul>
 	<li>For example, <code>&quot;abc&quot;</code> is an alphabetical continuous string, while <code>&quot;acb&quot;</code> and <code>&quot;za&quot;</code> are not.</li>
