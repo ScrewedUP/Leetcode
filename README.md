@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/ScrewedUP/Leetcode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/ScrewedUP/Leetcode/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/ScrewedUP/Leetcode/tree/master/1044-find-common-characters) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/ScrewedUP/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 # Greedy
 |  |
 | ------- |
