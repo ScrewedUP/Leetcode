@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/ScrewedUP/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/ScrewedUP/Leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/ScrewedUP/Leetcode/tree/master/1044-find-common-characters) |
+| [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/ScrewedUP/Leetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [3474-better-compression-of-string](https://github.com/ScrewedUP/Leetcode/tree/master/3474-better-compression-of-string) |
 # String
 |  |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/ScrewedUP/Leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/ScrewedUP/Leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/ScrewedUP/Leetcode/tree/master/1137-height-checker) |
+| [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/ScrewedUP/Leetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 # Sorting
 |  |
 | ------- |
@@ -44,4 +46,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/ScrewedUP/Leetcode/tree/master/1137-height-checker) |
+| [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/ScrewedUP/Leetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [3474-better-compression-of-string](https://github.com/ScrewedUP/Leetcode/tree/master/3474-better-compression-of-string) |
