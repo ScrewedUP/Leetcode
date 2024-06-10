@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/better-compression-of-string">3474. Better Compression of String</a></h2><h3>Medium</h3><hr><p>You are given a string <code>compressed</code> representing a compressed version of a string. The format is a character followed by its frequency. For example, <code>&quot;a3b1a1c2&quot;</code> is a compressed version of the string <code>&quot;aaabacc&quot;</code>.</p>
+<h2><a href="https://leetcode.com/problems/better-compression-of-string">Better Compression of String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a string <code>compressed</code> representing a compressed version of a string. The format is a character followed by its frequency. For example, <code>&quot;a3b1a1c2&quot;</code> is a compressed version of the string <code>&quot;aaabacc&quot;</code>.</p>
 
 <p>We seek a <strong>better compression</strong> with the following conditions:</p>
 
