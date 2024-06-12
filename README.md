@@ -54,3 +54,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ScrewedUP/Leetcode/tree/master/0075-sort-colors) |
+# Tree
+|  |
+| ------- |
+| [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/ScrewedUP/Leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
+# Depth-First Search
+|  |
+| ------- |
+| [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/ScrewedUP/Leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
+# Breadth-First Search
+|  |
+| ------- |
+| [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/ScrewedUP/Leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
+# Binary Tree
+|  |
+| ------- |
+| [3467-find-the-level-of-tree-with-minimum-sum](https://github.com/ScrewedUP/Leetcode/tree/master/3467-find-the-level-of-tree-with-minimum-sum) |
