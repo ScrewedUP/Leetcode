@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum">3467. Find the Level of Tree with Minimum Sum</a></h2><h3>Medium</h3><hr><p>Given the root of a binary tree <code>root</code> where each node has a value, return the level of the tree that has the <strong>minimum</strong> sum of values among all the levels (in case of a tie, return the <strong>lowest</strong> level).</p>
+<h2><a href="https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum">Find the Level of Tree with Minimum Sum</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given the root of a binary tree <code>root</code> where each node has a value, return the level of the tree that has the <strong>minimum</strong> sum of values among all the levels (in case of a tie, return the <strong>lowest</strong> level).</p>
 
 <p><strong>Note</strong> that the root of the tree is at level 1 and the level of any other node is its distance from the root + 1.</p>
 
