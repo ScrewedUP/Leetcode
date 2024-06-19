@@ -1,16 +1,10 @@
 class Solution {
 public:
     bool canPlace(int mid , vector<int>& v, int m, int k ){
-        vector<int> can(v.size(),0);
-        for(int i = 0 ; i < v.size() ; i++){
-            if ( v[i] <= mid ){
-                can[i] = 1;
-            }
-        }
         int cnt = 0;
         int count = 0;
         for(int i = 0 ; i < v.size() ; i++){
-            if ( can[i] == 1){
+            if ( v[i] <= mid ){
                 count++;
                 if ( count == k){
                     cnt++;
@@ -23,10 +17,9 @@ public:
         return false;
     }
     int minDays(vector<int>& bloomDay, int m, int k) {
-        // sort(bloomDay.begin(),bloomDay.end());
         if ( (long long)m*k > bloomDay.size() ) return -1;
         int low = 1;
-        int high = 1e9;
+        int high = *max_element(bloomDay.begin(),bloomDay.end());
         int ans = 0;
         while( low <= high ){
             int mid = low + (high - low)/2;
