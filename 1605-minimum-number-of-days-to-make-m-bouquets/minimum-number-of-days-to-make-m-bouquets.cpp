@@ -1,16 +1,10 @@
 class Solution {
 public:
     bool canPlace(int mid , vector<int>& v, int m, int k ){
-        vector<int> can(v.size(),0);
-        for(int i = 0 ; i < v.size() ; i++){
-            if ( v[i] <= mid ){
-                can[i] = 1;
-            }
-        }
         int cnt = 0;
         int count = 0;
         for(int i = 0 ; i < v.size() ; i++){
-            if ( can[i] == 1){
+            if ( v[i] <= mid ){
                 count++;
                 if ( count == k){
                     cnt++;
