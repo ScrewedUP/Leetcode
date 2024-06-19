@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/ScrewedUP/Leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/ScrewedUP/Leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/ScrewedUP/Leetcode/tree/master/1137-height-checker) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ScrewedUP/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/ScrewedUP/Leetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 # Sorting
 |  |
@@ -78,3 +79,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/ScrewedUP/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ScrewedUP/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
