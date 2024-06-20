@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/ScrewedUP/Leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/ScrewedUP/Leetcode/tree/master/1137-height-checker) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ScrewedUP/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/ScrewedUP/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/ScrewedUP/Leetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 # Sorting
 |  |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/ScrewedUP/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/ScrewedUP/Leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/ScrewedUP/Leetcode/tree/master/1137-height-checker) |
+| [1675-magnetic-force-between-two-balls](https://github.com/ScrewedUP/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [3474-better-compression-of-string](https://github.com/ScrewedUP/Leetcode/tree/master/3474-better-compression-of-string) |
 # Trie
 |  |
@@ -80,3 +82,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/ScrewedUP/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ScrewedUP/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/ScrewedUP/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
