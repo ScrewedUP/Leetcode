@@ -51,14 +51,19 @@ public:
     int longestSubarray(vector<int>& nums, int limit) {
         int left = 0;
         int n = nums.size();
-        int maxi = INT_MIN;
-        SegmentTree st(nums);
-
+        int maxi = 0;
+        // SegmentTree st(nums);
+        multiset<int> st;
         for (int right = 0; right < n; right++) {
-            while (st.getMax(left, right) - st.getMin(left, right) > limit) {
+            st.insert(nums[right]);
+            
+            while (*st.rbegin() - *st.begin() > limit) {
+                
+                st.erase(st.find(nums[left]));
                 left++;
             }
-            maxi = max(maxi, right - left + 1);
+            maxi = max(maxi, right - left +  1);
+            
         }
 
         return maxi;
