@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value">3354. Replace Question Marks in String to Minimize Its Value</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code>. <code>s[i]</code> is either a lowercase English letter or <code>&#39;?&#39;</code>.</p>
+<h2><a href="https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value">Replace Question Marks in String to Minimize Its Value</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a string <code>s</code>. <code>s[i]</code> is either a lowercase English letter or <code>&#39;?&#39;</code>.</p>
 
 <p>For a string <code>t</code> having length <code>m</code> containing <strong>only</strong> lowercase English letters, we define the function <code>cost(i)</code> for an index <code>i</code>&nbsp;as the number of characters <strong>equal</strong> to <code>t[i]</code>&nbsp;that appeared before it, i.e. in the range <code>[0, i - 1]</code>.</p>
 
