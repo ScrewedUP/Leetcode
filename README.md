@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/ScrewedUP/Leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/ScrewedUP/Leetcode/tree/master/1044-find-common-characters) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/ScrewedUP/Leetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ScrewedUP/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3474-better-compression-of-string](https://github.com/ScrewedUP/Leetcode/tree/master/3474-better-compression-of-string) |
 # String
 |  |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/ScrewedUP/Leetcode/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/ScrewedUP/Leetcode/tree/master/1044-find-common-characters) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/ScrewedUP/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ScrewedUP/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3474-better-compression-of-string](https://github.com/ScrewedUP/Leetcode/tree/master/3474-better-compression-of-string) |
 # Greedy
 |  |
@@ -25,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/ScrewedUP/Leetcode/tree/master/0409-longest-palindrome) |
 | [0853-most-profit-assigning-work](https://github.com/ScrewedUP/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/ScrewedUP/Leetcode/tree/master/0876-hand-of-straights) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ScrewedUP/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 # Array
 |  |
 | ------- |
@@ -47,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/ScrewedUP/Leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/ScrewedUP/Leetcode/tree/master/1137-height-checker) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ScrewedUP/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ScrewedUP/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3474-better-compression-of-string](https://github.com/ScrewedUP/Leetcode/tree/master/3474-better-compression-of-string) |
 # Trie
 |  |
@@ -57,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1137-height-checker](https://github.com/ScrewedUP/Leetcode/tree/master/1137-height-checker) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/ScrewedUP/Leetcode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ScrewedUP/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3474-better-compression-of-string](https://github.com/ScrewedUP/Leetcode/tree/master/3474-better-compression-of-string) |
 # Two Pointers
 |  |
@@ -99,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ScrewedUP/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ScrewedUP/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 # Ordered Set
 |  |
 | ------- |
