@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ScrewedUP/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1961-maximum-ice-cream-bars](https://github.com/ScrewedUP/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ScrewedUP/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/ScrewedUP/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/ScrewedUP/Leetcode/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
@@ -170,8 +171,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0726-number-of-atoms](https://github.com/ScrewedUP/Leetcode/tree/master/0726-number-of-atoms) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ScrewedUP/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/ScrewedUP/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ScrewedUP/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/ScrewedUP/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/ScrewedUP/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
