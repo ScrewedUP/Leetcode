@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ScrewedUP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0726-number-of-atoms](https://github.com/ScrewedUP/Leetcode/tree/master/0726-number-of-atoms) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ScrewedUP/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ScrewedUP/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ScrewedUP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0726-number-of-atoms](https://github.com/ScrewedUP/Leetcode/tree/master/0726-number-of-atoms) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ScrewedUP/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ScrewedUP/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -205,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/ScrewedUP/Leetcode/tree/master/0526-beautiful-arrangement) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ScrewedUP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
