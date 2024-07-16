@@ -1,31 +1,23 @@
 class Solution {
 public:
     int minimumRounds(vector<int>& tasks) {
-        map<int,int> m;
-        for(auto it : tasks){
-            m[it]++;
+        unordered_map<int,int> mp;
+        for(int i=0;i<tasks.size();i++){
+            mp[tasks[i]]++;
         }
-        int ans = 0;
-        for(auto it : m){
-            int curr = it.second;
-            while ( curr > 0 ){
-                if ( curr % 3 == 0 ){
-                    curr -= 3;
-                    ans++;
-                }
-                else if ( curr % 2 == 0){
-                    curr -= 2;
-                    ans++;
-                }
-                else{
-                    if ( curr == 1 ) return -1;
-                    else{
-                        curr -= 3;
-                        ans++;
-                    }
-                }
+        
+        int output=0;
+        
+        for (auto freq : mp){
+            if(freq.second==1)
+                return -1;
+            if(freq.second%3==0){
+                output += freq.second/3;
+            }
+            else{
+                output += freq.second/3 + 1;
             }
         }
-        return ans;
+        return output;
     }
 };
