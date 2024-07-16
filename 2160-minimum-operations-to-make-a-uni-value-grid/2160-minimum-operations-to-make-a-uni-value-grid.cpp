@@ -9,8 +9,6 @@ public:
         }
         sort(all.begin(),all.end());
         int xt = all[(all.size()/2)];
-        // for(auto it : all ) cout << it << " ";
-        // cout << endl << xt;
         bool ok = true;
         for(int i = 0 ;i < all.size() ; i++){
             int curr = all[i];
