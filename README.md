@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ScrewedUP/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ScrewedUP/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1961-maximum-ice-cream-bars](https://github.com/ScrewedUP/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [2850-construct-the-longest-new-string](https://github.com/ScrewedUP/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ScrewedUP/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ScrewedUP/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2645-pass-the-pillow](https://github.com/ScrewedUP/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2850-construct-the-longest-new-string](https://github.com/ScrewedUP/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 ## Simulation
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/ScrewedUP/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [2850-construct-the-longest-new-string](https://github.com/ScrewedUP/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -223,4 +226,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/ScrewedUP/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ScrewedUP/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ScrewedUP/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Brainteaser
+|  |
+| ------- |
+| [2850-construct-the-longest-new-string](https://github.com/ScrewedUP/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 <!---LeetCode Topics End-->
