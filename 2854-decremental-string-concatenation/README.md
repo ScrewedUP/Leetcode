@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/decremental-string-concatenation">2854. Decremental String Concatenation</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> array <code>words</code> containing <code>n</code> strings.</p>
+<h2><a href="https://leetcode.com/problems/decremental-string-concatenation">Decremental String Concatenation</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> array <code>words</code> containing <code>n</code> strings.</p>
 
 <p>Let&#39;s define a <strong>join</strong> operation <code>join(x, y)</code> between two strings <code>x</code> and <code>y</code> as concatenating them into <code>xy</code>. However, if the last character of <code>x</code> is equal to the first character of <code>y</code>, one of them is <strong>deleted</strong>.</p>
 
