@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/ScrewedUP/Leetcode/tree/master/2846-robot-collisions) |
 | [2848-special-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/2848-special-permutations) |
 | [2854-decremental-string-concatenation](https://github.com/ScrewedUP/Leetcode/tree/master/2854-decremental-string-concatenation) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/ScrewedUP/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/ScrewedUP/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1961-maximum-ice-cream-bars](https://github.com/ScrewedUP/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2850-construct-the-longest-new-string](https://github.com/ScrewedUP/Leetcode/tree/master/2850-construct-the-longest-new-string) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/ScrewedUP/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Sorting
 |  |
 | ------- |
