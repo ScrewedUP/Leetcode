@@ -19,7 +19,7 @@ public:
             while ( currNum[x] == '0'){
                 x++;
             }
-            if ( x > 0){
+            if ( x > 0 && x < currNum.size()){
                 string newStr = "";
                 for(int k = x ; k < currNum.size() ; k++){
                     newStr += currNum[k];
@@ -32,7 +32,7 @@ public:
                 mp[nums[i]] = ny;
             }
         }
-        for(auto it : nums) cout << it <<  " ";
+        // for(auto it : nums) cout << it <<  " ";
         sort(nums.begin(),nums.end(),[&mp](int &a, int &b){
             return mp[a] < mp[b];
         });
