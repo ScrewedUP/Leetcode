@@ -32,7 +32,6 @@ public:
                 mp[nums[i]] = ny;
             }
         }
-        // for(auto it : nums) cout << it <<  " ";
         sort(nums.begin(),nums.end(),[&mp](int &a, int &b){
             return mp[a] < mp[b];
         });
