@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2848-special-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/2848-special-permutations) |
 | [2854-decremental-string-concatenation](https://github.com/ScrewedUP/Leetcode/tree/master/2854-decremental-string-concatenation) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/ScrewedUP/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+| [2916-check-if-it-is-possible-to-split-array](https://github.com/ScrewedUP/Leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ScrewedUP/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Greedy
 |  |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ScrewedUP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2850-construct-the-longest-new-string](https://github.com/ScrewedUP/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/ScrewedUP/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+| [2916-check-if-it-is-possible-to-split-array](https://github.com/ScrewedUP/Leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Sorting
 |  |
 | ------- |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2850-construct-the-longest-new-string](https://github.com/ScrewedUP/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2854-decremental-string-concatenation](https://github.com/ScrewedUP/Leetcode/tree/master/2854-decremental-string-concatenation) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ScrewedUP/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2916-check-if-it-is-possible-to-split-array](https://github.com/ScrewedUP/Leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 ## Backtracking
 |  |
 | ------- |
