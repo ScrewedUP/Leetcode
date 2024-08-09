@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/ScrewedUP/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ScrewedUP/Leetcode/tree/master/0200-number-of-islands) |
 | [0526-beautiful-arrangement](https://github.com/ScrewedUP/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0870-magic-squares-in-grid](https://github.com/ScrewedUP/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ScrewedUP/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/ScrewedUP/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ScrewedUP/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/ScrewedUP/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ScrewedUP/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ScrewedUP/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ScrewedUP/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ScrewedUP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ScrewedUP/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0726-number-of-atoms](https://github.com/ScrewedUP/Leetcode/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/ScrewedUP/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ScrewedUP/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ScrewedUP/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ScrewedUP/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -281,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ScrewedUP/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ScrewedUP/Leetcode/tree/master/0200-number-of-islands) |
+| [0870-magic-squares-in-grid](https://github.com/ScrewedUP/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ScrewedUP/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ScrewedUP/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ScrewedUP/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
