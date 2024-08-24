@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/ScrewedUP/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0564-find-the-closest-palindrome](https://github.com/ScrewedUP/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/ScrewedUP/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/ScrewedUP/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/ScrewedUP/Leetcode/tree/master/1240-stone-game-ii) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ScrewedUP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0273-integer-to-english-words](https://github.com/ScrewedUP/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0564-find-the-closest-palindrome](https://github.com/ScrewedUP/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/ScrewedUP/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/ScrewedUP/Leetcode/tree/master/0726-number-of-atoms) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ScrewedUP/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
