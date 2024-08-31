@@ -15,11 +15,12 @@ public:
             pq.pop();
             int node = tp.second;
             double prob = tp.first;
-            if ( node == end_node){
-                return prob;
-            } 
+            // if ( node == end_node){
+            //     return prob;
+            // } 
             for(auto it : adj[node]){
                 int nd = it.first;
+                cout << nd << " ";
                 double wt = it.second;
                 if ( ans[nd] < wt*prob){
                     ans[nd] = wt*prob;
