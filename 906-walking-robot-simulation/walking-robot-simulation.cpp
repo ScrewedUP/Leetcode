@@ -72,7 +72,6 @@ public:
                     }
                     
                 }
-                cout << x << " " << y << endl;
             }
             
         }
