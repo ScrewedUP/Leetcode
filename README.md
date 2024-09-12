@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ScrewedUP/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ScrewedUP/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ScrewedUP/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ScrewedUP/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/ScrewedUP/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ScrewedUP/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ScrewedUP/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/ScrewedUP/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/ScrewedUP/Leetcode/tree/master/0726-number-of-atoms) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ScrewedUP/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ScrewedUP/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ScrewedUP/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ScrewedUP/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ScrewedUP/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/ScrewedUP/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ScrewedUP/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ScrewedUP/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ScrewedUP/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ScrewedUP/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ScrewedUP/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0476-number-complement](https://github.com/ScrewedUP/Leetcode/tree/master/0476-number-complement) |
 | [0526-beautiful-arrangement](https://github.com/ScrewedUP/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ScrewedUP/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ScrewedUP/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ScrewedUP/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2848-special-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/2848-special-permutations) |
@@ -402,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ScrewedUP/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Shortest Path
 |  |
