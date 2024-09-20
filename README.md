@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ScrewedUP/Leetcode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ScrewedUP/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/ScrewedUP/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/ScrewedUP/Leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ScrewedUP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/ScrewedUP/Leetcode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ScrewedUP/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ScrewedUP/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/ScrewedUP/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/ScrewedUP/Leetcode/tree/master/0664-strange-printer) |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ScrewedUP/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0526-beautiful-arrangement](https://github.com/ScrewedUP/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0650-2-keys-keyboard](https://github.com/ScrewedUP/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -446,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ScrewedUP/Leetcode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ScrewedUP/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ScrewedUP/Leetcode/tree/master/0273-integer-to-english-words) |
 ## Design
 |  |
@@ -481,4 +485,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/ScrewedUP/Leetcode/tree/master/1002-maximum-width-ramp) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ScrewedUP/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
