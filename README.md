@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/ScrewedUP/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ScrewedUP/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/ScrewedUP/Leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/ScrewedUP/Leetcode/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/ScrewedUP/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/ScrewedUP/Leetcode/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ScrewedUP/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ScrewedUP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ScrewedUP/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0567-permutation-in-string](https://github.com/ScrewedUP/Leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/ScrewedUP/Leetcode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/ScrewedUP/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/ScrewedUP/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ScrewedUP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/ScrewedUP/Leetcode/tree/master/0567-permutation-in-string) |
 | [2832-find-the-longest-equal-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 ## Matrix
 |  |
@@ -392,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/ScrewedUP/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ScrewedUP/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ScrewedUP/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ScrewedUP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
