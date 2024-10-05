@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/ScrewedUP/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1961-maximum-ice-cream-bars](https://github.com/ScrewedUP/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ScrewedUP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/ScrewedUP/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2850-construct-the-longest-new-string](https://github.com/ScrewedUP/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/ScrewedUP/Leetcode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/ScrewedUP/Leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2373-apply-discount-to-prices](https://github.com/ScrewedUP/Leetcode/tree/master/2373-apply-discount-to-prices) |
 | [2502-sort-the-people](https://github.com/ScrewedUP/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ScrewedUP/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/ScrewedUP/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2854-decremental-string-concatenation](https://github.com/ScrewedUP/Leetcode/tree/master/2854-decremental-string-concatenation) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ScrewedUP/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ScrewedUP/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/ScrewedUP/Leetcode/tree/master/0726-number-of-atoms) |
 | [1002-maximum-width-ramp](https://github.com/ScrewedUP/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ScrewedUP/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/ScrewedUP/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2846-robot-collisions](https://github.com/ScrewedUP/Leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -339,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1196-filling-bookcase-shelves](https://github.com/ScrewedUP/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/ScrewedUP/Leetcode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ScrewedUP/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/ScrewedUP/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2848-special-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/2848-special-permutations) |
 | [2850-construct-the-longest-new-string](https://github.com/ScrewedUP/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2854-decremental-string-concatenation](https://github.com/ScrewedUP/Leetcode/tree/master/2854-decremental-string-concatenation) |
