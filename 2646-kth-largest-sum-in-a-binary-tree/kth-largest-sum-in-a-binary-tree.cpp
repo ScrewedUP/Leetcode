@@ -16,16 +16,16 @@ public:
         queue<TreeNode*> q;
         q.push(root);
         while(!q.empty()){
-            long long sum = 0;
             int n = q.size();
+            long long sum = 0;
             for(int i = 0 ; i < n ; i++){
-                auto top = q.front();
+                TreeNode* top = q.front();
                 q.pop();
                 sum += top->val;
-                if ( top->left ){
+                if ( top->left != NULL){
                     q.push(top->left);
                 }
-                if ( top->right){
+                if ( top->right != NULL ){
                     q.push(top->right);
                 }
             }
