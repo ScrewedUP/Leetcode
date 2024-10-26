@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ScrewedUP/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ScrewedUP/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ScrewedUP/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/ScrewedUP/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ScrewedUP/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ScrewedUP/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ScrewedUP/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ScrewedUP/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ScrewedUP/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/ScrewedUP/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ScrewedUP/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ScrewedUP/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ScrewedUP/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ScrewedUP/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ScrewedUP/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ScrewedUP/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ScrewedUP/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -421,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ScrewedUP/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ScrewedUP/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ScrewedUP/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ScrewedUP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Graph
 |  |
