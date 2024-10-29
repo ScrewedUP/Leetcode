@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ScrewedUP/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/ScrewedUP/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ScrewedUP/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2832-find-the-longest-equal-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2834-relocate-marbles](https://github.com/ScrewedUP/Leetcode/tree/master/2834-relocate-marbles) |
 | [2846-robot-collisions](https://github.com/ScrewedUP/Leetcode/tree/master/2846-robot-collisions) |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ScrewedUP/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ScrewedUP/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ScrewedUP/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2848-special-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/2848-special-permutations) |
 | [2850-construct-the-longest-new-string](https://github.com/ScrewedUP/Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2854-decremental-string-concatenation](https://github.com/ScrewedUP/Leetcode/tree/master/2854-decremental-string-concatenation) |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ScrewedUP/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/ScrewedUP/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ScrewedUP/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ScrewedUP/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Brainteaser
 |  |
 | ------- |
