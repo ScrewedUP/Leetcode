@@ -5,7 +5,7 @@ public:
         string temp;
         temp += goal;
         temp += goal;
-        if ( temp.find(s) != string::npos){
+        if ( temp.contains(s)){
             return true;
         }
         return false;
