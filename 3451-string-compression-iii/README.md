@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/string-compression-iii">String Compression III</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given a string <code>word</code>, compress it using the following algorithm:</p>
+<h2><a href="https://leetcode.com/problems/string-compression-iii">3451. String Compression III</a></h2><h3>Medium</h3><hr><p>Given a string <code>word</code>, compress it using the following algorithm:</p>
 
 <ul>
 	<li>Begin with an empty string <code>comp</code>. While <code>word</code> is <strong>not</strong> empty, use the following operation:
@@ -11,8 +11,6 @@
 </ul>
 
 <p>Return the string <code>comp</code>.</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
@@ -38,7 +36,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p>Initially, <code>comp = &quot;&quot;</code>. Apply the operation 3 times, choosing <code>&quot;aaaaaaaaaa&quot;</code>, <code>&quot;aaaaa&quot;</code>, and <code>&quot;bb&quot;</code> as the prefix in each operation.</p>
+<p>Initially, <code>comp = &quot;&quot;</code>. Apply the operation 3 times, choosing <code>&quot;aaaaaaaaa&quot;</code>, <code>&quot;aaaaa&quot;</code>, and <code>&quot;bb&quot;</code> as the prefix in each operation.</p>
 
 <ul>
 	<li>For prefix <code>&quot;aaaaaaaaa&quot;</code>, append <code>&quot;9&quot;</code> followed by <code>&quot;a&quot;</code> to <code>comp</code>.</li>
