@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2730-maximum-or](https://github.com/ScrewedUP/Leetcode/tree/master/2730-maximum-or) |
 | [2848-special-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/2848-special-permutations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ScrewedUP/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/ScrewedUP/Leetcode/tree/master/3394-minimum-array-end) |
 ## Tree
 |  |
 | ------- |
