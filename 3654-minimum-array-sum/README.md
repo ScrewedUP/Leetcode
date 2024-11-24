@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-array-sum">3654. Minimum Array Sum</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and three integers <code>k</code>, <code>op1</code>, and <code>op2</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-array-sum">Minimum Array Sum</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code> and three integers <code>k</code>, <code>op1</code>, and <code>op2</code>.</p>
 
 <p>You can perform the following operations on <code>nums</code>:</p>
 
