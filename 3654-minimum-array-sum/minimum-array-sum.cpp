@@ -12,8 +12,12 @@ public:
         if ( dp[idx][op1][op2] != -1 ) return dp[idx][op1][op2];
         int ans = INT_MAX;
         ans = min(ans,nums[idx] + solve(idx+1,op1,op2,k,nums));
-        if ( op1 > 0 ) ans = min(ans,ceil(nums[idx],2) + solve(idx+1,op1-1,op2,k,nums));
-        if ( op2 > 0 && nums[idx] >= k ) ans = min(ans,nums[idx] - k + solve(idx+1,op1,op2-1,k,nums));
+        if ( op1 > 0 ){
+            ans = min(ans,ceil(nums[idx],2) + solve(idx+1,op1-1,op2,k,nums));
+        }
+        if ( op2 > 0 && nums[idx] >= k ){
+            ans = min(ans,nums[idx] - k + solve(idx+1,op1,op2-1,k,nums));
+        }
         if ( op1 > 0 && op2 > 0 && (ceil(nums[idx],2) - k) >= 0){
             ans = min(ans,(ceil(nums[idx],2) - k) + solve(idx+1,op1-1,op2-1,k,nums));
         }
