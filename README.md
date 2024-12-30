@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1196-filling-bookcase-shelves](https://github.com/ScrewedUP/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/ScrewedUP/Leetcode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ScrewedUP/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2562-count-ways-to-build-good-strings](https://github.com/ScrewedUP/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ScrewedUP/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ScrewedUP/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
