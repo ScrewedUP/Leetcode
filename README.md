@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ScrewedUP/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ScrewedUP/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ScrewedUP/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2358-number-of-ways-to-split-array](https://github.com/ScrewedUP/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/ScrewedUP/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ScrewedUP/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ScrewedUP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ScrewedUP/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/ScrewedUP/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ScrewedUP/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/ScrewedUP/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ScrewedUP/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2730-maximum-or](https://github.com/ScrewedUP/Leetcode/tree/master/2730-maximum-or) |
 | [3034-points-that-intersect-with-cars](https://github.com/ScrewedUP/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
