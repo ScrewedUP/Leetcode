@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ScrewedUP/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ScrewedUP/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/ScrewedUP/Leetcode/tree/master/2035-count-sub-islands) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ScrewedUP/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ScrewedUP/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ScrewedUP/Leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ScrewedUP/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/ScrewedUP/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/ScrewedUP/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ScrewedUP/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ScrewedUP/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ScrewedUP/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ScrewedUP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/ScrewedUP/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ScrewedUP/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ScrewedUP/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ScrewedUP/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ScrewedUP/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2373-apply-discount-to-prices](https://github.com/ScrewedUP/Leetcode/tree/master/2373-apply-discount-to-prices) |
@@ -492,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/0948-sort-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ScrewedUP/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -500,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/ScrewedUP/Leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/ScrewedUP/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ScrewedUP/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ScrewedUP/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2803-modify-graph-edge-weights](https://github.com/ScrewedUP/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
@@ -623,4 +628,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ScrewedUP/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ScrewedUP/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
