@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ScrewedUP/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ScrewedUP/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1961-maximum-ice-cream-bars](https://github.com/ScrewedUP/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ScrewedUP/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ScrewedUP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ScrewedUP/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2730-maximum-or](https://github.com/ScrewedUP/Leetcode/tree/master/2730-maximum-or) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ScrewedUP/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2373-apply-discount-to-prices](https://github.com/ScrewedUP/Leetcode/tree/master/2373-apply-discount-to-prices) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ScrewedUP/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2502-sort-the-people](https://github.com/ScrewedUP/Leetcode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ScrewedUP/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/ScrewedUP/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/ScrewedUP/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ScrewedUP/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ScrewedUP/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ScrewedUP/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ScrewedUP/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2846-robot-collisions](https://github.com/ScrewedUP/Leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -430,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/0046-permutations) |
 | [0526-beautiful-arrangement](https://github.com/ScrewedUP/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ScrewedUP/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ScrewedUP/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ScrewedUP/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bitmask
 |  |
