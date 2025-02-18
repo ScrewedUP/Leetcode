@@ -28,7 +28,7 @@ public:
         }
         for(int i = 1 ; i <= 9 ; i++){
             if ( v[i] == 0){
-                s.push_back(i + '0');
+                s += (i + '0');
                 v[i] = 1;
                 solve(s,n,v,p);
                 v[i] = 0;
