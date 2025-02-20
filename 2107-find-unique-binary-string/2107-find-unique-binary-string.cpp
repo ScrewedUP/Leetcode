@@ -1,19 +1,18 @@
 class Solution {
 public:
-    string ans;
-    void solve(string s,int n,set<string> &st){
-        if ( s.size() == n){
-            if ( st.find(s) == st.end()){
-                ans = s;
-            }
-            return;
-        }
-        solve(s+'0',n,st);
-        solve(s+'1',n,st);
-    }
     string findDifferentBinaryString(vector<string>& nums) {
-        set<string> s(nums.begin(),nums.end());
-        solve("",nums[0].size(),s);
+        // Fliping the ith bit of the i-th string will
+        // guarantee a different string from all the
+        // elements in the array 
+        string ans;
+        for(int i = 0 ; i < nums.size() ; i++){
+            if ( nums[i][i] == '0'){
+                ans += '1';
+            }
+            else{
+                ans += '0';
+            }
+        }
         return ans;
     }
 };
