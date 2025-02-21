@@ -26,7 +26,6 @@ public:
         }
     }
     FindElements(TreeNode* root) {
-        int x = 0;
         dfs(root,0);
     }
     
