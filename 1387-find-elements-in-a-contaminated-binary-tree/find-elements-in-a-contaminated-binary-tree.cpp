@@ -12,7 +12,7 @@
 class FindElements {
 public:
     
-    set<int> s;
+    unordered_set<int> s;
     void dfs(TreeNode* root,int x){
         if ( !root ) return;
         s.insert(x);
