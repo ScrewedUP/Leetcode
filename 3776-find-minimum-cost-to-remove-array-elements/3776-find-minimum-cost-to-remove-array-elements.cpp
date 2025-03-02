@@ -1,15 +1,25 @@
 class Solution {
 public:
     int t[1001][1001];
-    int solve(int i,int j,vector<int> &v){
-        if ( j == v.size() ) return v[i];
-        if ( j == v.size() - 1 ) return max(v[i],v[j]);
+    int solve(int i ,int j,vector<int> &nums){
+        if ( j == nums.size() ){
+            return nums[i];
+        }
+        if ( j == nums.size() - 1){
+            return max(nums[i],nums[j]);
+        }
         if ( t[i][j] != -1 ) return t[i][j];
-        int x = max(v[i],v[j]) + solve(j+1,j+2,v);
-        int y = max(v[i],v[j+1]) + solve(j,j+2,v);
-        int z = max(v[j],v[j+1]) + solve(i,j+2,v);
+        // take i and j
+        int op1 = max(nums[i],nums[j]) + solve(j+1,j+2,nums);
 
-        return t[i][j] = min(x,min(y,z));
+        //take i and j+1
+        int op2 = max(nums[i],nums[j+1]) + solve(j,j+2,nums);
+
+        // take j and j+1
+
+        int op3 = max(nums[j],nums[j+1]) + solve(i,j+2,nums);
+
+        return t[i][j] = min(op1,min(op2,op3));
     }
     int minCost(vector<int>& nums) {
         memset(t,-1,sizeof(t));
