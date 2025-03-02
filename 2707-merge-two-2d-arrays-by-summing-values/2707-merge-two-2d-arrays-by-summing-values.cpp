@@ -10,10 +10,7 @@ public:
         }
         vector<vector<int>> ans;
         for(auto it : m){
-            vector<int> temp;
-            temp.push_back(it.first);
-            temp.push_back(it.second);
-            ans.push_back(temp);
+            ans.push_back({it.first,it.second});
         }
         return ans;
     }
