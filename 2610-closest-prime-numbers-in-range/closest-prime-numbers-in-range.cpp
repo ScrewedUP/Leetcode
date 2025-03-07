@@ -12,7 +12,7 @@ public:
         return primes;
     }
     vector<int> closestPrimes(int left, int right) {
-        vector<bool> primes = sieve(1000000);
+        vector<bool> primes = sieve(right);
         vector<int> v;
         for(int i = left ; i <= right ; i++){
             if ( primes[i] == true){
