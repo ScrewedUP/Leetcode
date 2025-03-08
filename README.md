@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ScrewedUP/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2373-apply-discount-to-prices](https://github.com/ScrewedUP/Leetcode/tree/master/2373-apply-discount-to-prices) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ScrewedUP/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ScrewedUP/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/ScrewedUP/Leetcode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ScrewedUP/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/ScrewedUP/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -466,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ScrewedUP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/ScrewedUP/Leetcode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/ScrewedUP/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ScrewedUP/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2832-find-the-longest-equal-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 ## Matrix
 |  |
