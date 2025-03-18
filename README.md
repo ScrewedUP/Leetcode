@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/ScrewedUP/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/ScrewedUP/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ScrewedUP/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2478-longest-nice-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ScrewedUP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/ScrewedUP/Leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ScrewedUP/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ScrewedUP/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ScrewedUP/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ScrewedUP/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2478-longest-nice-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ScrewedUP/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2730-maximum-or](https://github.com/ScrewedUP/Leetcode/tree/master/2730-maximum-or) |
 | [2848-special-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/2848-special-permutations) |
@@ -470,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ScrewedUP/Leetcode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/ScrewedUP/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ScrewedUP/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2832-find-the-longest-equal-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [3483-alternating-groups-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Matrix
