@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ScrewedUP/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ScrewedUP/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3430-count-days-without-meetings](https://github.com/ScrewedUP/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ScrewedUP/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ScrewedUP/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2834-relocate-marbles](https://github.com/ScrewedUP/Leetcode/tree/master/2834-relocate-marbles) |
 | [2846-robot-collisions](https://github.com/ScrewedUP/Leetcode/tree/master/2846-robot-collisions) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ScrewedUP/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/ScrewedUP/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Math
 |  |
 | ------- |
