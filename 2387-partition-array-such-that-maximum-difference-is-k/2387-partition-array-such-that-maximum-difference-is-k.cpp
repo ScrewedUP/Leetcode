@@ -4,7 +4,8 @@ public:
         sort(nums.begin(),nums.end());
         int x = 1;
         int low = nums[0];
-        for(int i = 1 ; i < nums.size() ; i++){
+        int n = nums.size();
+        for(int i = 1 ; i < n ; i++){
             if ( nums[i] - low > k){
                 x++;
                 low = nums[i];
