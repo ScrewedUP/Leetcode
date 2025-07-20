@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/ScrewedUP/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/ScrewedUP/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1046-max-consecutive-ones-iii](https://github.com/ScrewedUP/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ScrewedUP/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1063-best-sightseeing-pair](https://github.com/ScrewedUP/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1130-last-stone-weight-ii](https://github.com/ScrewedUP/Leetcode/tree/master/1130-last-stone-weight-ii) |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ScrewedUP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/ScrewedUP/Leetcode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/ScrewedUP/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/ScrewedUP/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ScrewedUP/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2832-find-the-longest-equal-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
@@ -524,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ScrewedUP/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1046-max-consecutive-ones-iii](https://github.com/ScrewedUP/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ScrewedUP/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ScrewedUP/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ScrewedUP/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -647,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/ScrewedUP/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/ScrewedUP/Leetcode/tree/master/1240-stone-game-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ScrewedUP/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ScrewedUP/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
