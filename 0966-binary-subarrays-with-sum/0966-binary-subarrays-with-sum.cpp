@@ -1,22 +1,18 @@
 class Solution {
-public: 
+public:
     int numSubarraysWithSum(vector<int>& nums, int goal) {
-        return g(nums,goal) - g(nums,goal-1);
-    }
-    int g(vector<int>& nums, int goal) {
-        int cnt = 0;
-        int l = 0;
+        map<int,int> m;
+        m[0] = 1;
         int sum = 0;
-        int n = nums.size();
-        for(int r = 0 ; r < n ; r++){
-            sum += nums[r];
-            while ( sum > goal && r >= l){
-                sum -= nums[l];
-                l++;
+        int ans = 0;
+        for(int i = 0 ; i < nums.size() ; i++){
+            sum += nums[i];
+            int req = sum - goal;
+            if ( m.find(req) != m.end()){
+                ans += m[req];
             }
-            cnt += ( r-l+1);
-            
+            m[sum]++;
         }
-        return cnt;
+        return ans;
     }
 };
