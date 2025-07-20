@@ -4,7 +4,7 @@ public:
         int l = 0;
         int maxi = 0;
         int n = s.size();
-        map<char,int> m;
+        unordered_map<char,int> m;
         for(int r = 0 ; r < n ; r++){
             m[s[r]]++;
             while(m[s[r]] > 1){
