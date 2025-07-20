@@ -18,7 +18,6 @@ public:
             for(int j = 0 ; j < m ; j++){
                 if (grid[i][j] > 0 && vis[i][j] == 0){
                     long long ans = dfs(i,j,n,m,vis,grid);
-                    // cout << ans << endl;
                     if ( ans % k == 0){
                         cnt++;
                     }
