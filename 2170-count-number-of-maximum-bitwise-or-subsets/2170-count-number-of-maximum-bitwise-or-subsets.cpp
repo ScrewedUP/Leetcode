@@ -1,22 +1,19 @@
 class Solution {
 public:
-    int countMaxOrSubsets(vector<int>& nums) {
-        int maxOr = 0;
-        for(auto it : nums){
-            maxOr |= it;
+    int solve(int i,int o ,vector<int> &nums,int x){
+        if ( i >= nums.size()){
+            if ( o == x) return 1;
+            return 0;
         }
-        int cnt = 0;
-        int n = nums.size();
-        for(int i = 0; i < (1<<n) ; i++){
-            int currOr = 0;
-            for(int j = 0; j < n;j++){
-                if((1<<j) & i){
-                    currOr |= nums[j];
-                }
-            }
-
-            if ( currOr == maxOr) cnt++;
-        }   
-        return cnt;
+        int notTake = solve(i+1,o,nums,x);
+        int take = solve(i+1,o|nums[i],nums,x);
+        return take + notTake;
+    }
+    int countMaxOrSubsets(vector<int>& nums) {
+        int x = 0;
+        for(auto it : nums){
+            x |= it;
+        }
+        return solve(0,0,nums,x);
     }
 };
