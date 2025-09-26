@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ScrewedUP/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ScrewedUP/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/ScrewedUP/Leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ScrewedUP/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ScrewedUP/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/ScrewedUP/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/ScrewedUP/Leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
 | ------- |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/ScrewedUP/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ScrewedUP/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ScrewedUP/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/ScrewedUP/Leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
