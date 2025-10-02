@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/ScrewedUP/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ScrewedUP/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ScrewedUP/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3336-water-bottles-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2834-relocate-marbles](https://github.com/ScrewedUP/Leetcode/tree/master/2834-relocate-marbles) |
 | [2846-robot-collisions](https://github.com/ScrewedUP/Leetcode/tree/master/2846-robot-collisions) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3336-water-bottles-ii) |
 ## String
 |  |
 | ------- |
