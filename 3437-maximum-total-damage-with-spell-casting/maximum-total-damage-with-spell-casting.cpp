@@ -10,7 +10,7 @@ public:
         vector<long long> v(s.begin(),s.end());
         vector<long long> t(v.size(),0);
         for(int i = 0 ; i < v.size() ; i++){
-
+            t[i] = 0;
             for(int j = 1 ; j < 4 ; j++){
                 if ( i - j >= 0 && v[i] - v[i-j] > 2){
                     t[i] = max(t[i],t[i-j]);
