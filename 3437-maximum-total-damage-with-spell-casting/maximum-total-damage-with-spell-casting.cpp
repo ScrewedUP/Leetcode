@@ -1,27 +1,28 @@
 class Solution {
 public:
+    long long t[100005];
+    map<long long,long long> m;
+    vector<long long> v;
+
+    long long solve(int i){
+        if ( i >= v.size()) return 0;
+
+        if ( t[i] != -1 ) return t[i];
+        int nxt = upper_bound(v.begin(),v.end(),v[i]+2) - v.begin();
+
+        long long take = v[i]*m[v[i]] + solve(nxt);
+        long long skip = solve(i+1);
+
+        return t[i] = max(take,skip);
+
+    }
     long long maximumTotalDamage(vector<int>& power) {
-        
-        map<long long,long long> m;
         for(auto it : power){
             m[it]++;
         }
         set<long long> s(power.begin(),power.end());
-        vector<long long> v(s.begin(),s.end());
-        vector<long long> t(v.size(),0);
-        for(int i = 0 ; i < v.size() ; i++){
-            t[i] = 0;
-            for(int j = 1 ; j < 4 ; j++){
-                if ( i - j >= 0 && v[i] - v[i-j] > 2){
-                    t[i] = max(t[i],t[i-j]);
-                }
-            }
-            t[i] += m[v[i]]*v[i];
-            if ( i - 1 >= 0){
-                t[i] = max(t[i],t[i-1]);
-            }
-        }
-        long long ans = *max_element(t.begin(),t.end());
-        return ans;
+        v.assign(s.begin(),s.end());
+        memset(t,-1,sizeof(t));
+        return solve(0);
     }
 };
