@@ -2,7 +2,6 @@ class Solution {
 public:
     int longestSquareStreak(vector<int>& nums) {
         int ans = -1;
-        sort(nums.begin(),nums.end());
         unordered_map<long long,long long> m;
         int o = 0;
         for(auto it : nums){
@@ -19,7 +18,6 @@ public:
             while ( curr < 1e5){
                 curr = curr*curr;
                 if ( m.find(curr) != m.end()){
-                    cout << curr << " " << sqrt(curr);
                     cnt++;
                 }
                 else break;
