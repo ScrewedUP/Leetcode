@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2902-max-pair-sum-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/ScrewedUP/Leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/ScrewedUP/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ScrewedUP/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/ScrewedUP/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ScrewedUP/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ScrewedUP/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2649-count-total-number-of-colored-cells](https://github.com/ScrewedUP/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ScrewedUP/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2850-construct-the-longest-new-string](https://github.com/ScrewedUP/Leetcode/tree/master/2850-construct-the-longest-new-string) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ScrewedUP/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/ScrewedUP/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ScrewedUP/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ScrewedUP/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
