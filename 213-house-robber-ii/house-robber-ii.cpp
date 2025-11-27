@@ -8,22 +8,16 @@ public:
             for (int t = 0; t <= 1; t++) {
                 if (i == 0) {
                     if (t == 0) {
-                        int skip = dp[1][0];
-                        int take = nums[0] + dp[2][1];
-                        dp[0][0] = max(skip, take);
+                        dp[i][t] = max(dp[1][0], nums[0] + dp[2][1]);
                     }
                 } else if (i == n - 1) {
                     if (t == 1) {
-                        dp[i][1] = dp[i + 1][1];
+                        dp[i][t] = dp[i + 1][t];
                     } else {
-                        int skip = dp[i + 1][0];
-                        int take = nums[i] + dp[i + 2][0];
-                        dp[i][0] = max(skip, take);
+                        dp[i][t] = max(dp[i + 1][t], nums[i] + dp[i + 2][t]);
                     }
                 } else {
-                    int skip = dp[i + 1][t];
-                    int take = nums[i] + dp[i + 2][t];
-                    dp[i][t] = max(skip, take);
+                    dp[i][t] = max(dp[i + 1][t], nums[i] + dp[i + 2][t]);
                 }
             }
         }
