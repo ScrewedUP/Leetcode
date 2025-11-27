@@ -1,23 +1,16 @@
 class Solution {
 public:
-    int t[5002][3];
-    int solve(int i , int w,vector<int> &prices){
-        if ( i >= prices.size()) return 0;
-        if ( t[i][w] != -1 ) return t[i][w];
-        int buy = INT_MIN;
-        int sell = INT_MIN;
-        int skip = solve(i+1,w,prices);
-        if ( w == 0){
-            buy = -1*prices[i] + solve(i+1,1,prices);
-        }
-        else{
-            sell = prices[i] + solve(i+2,0,prices);
-        }
-        return t[i][w] = max({buy,sell,skip});
-
-    }
     int maxProfit(vector<int>& prices) {
-        memset(t,-1,sizeof(t));
-        return solve(0,0,prices);
+        int n = prices.size();
+        vector<vector<int>> dp(n + 2, vector<int>(2, 0));
+        for (int i = n - 1; i >= 0; i--) {
+            int skip0 = dp[i + 1][0];
+            int buy = -prices[i] + dp[i + 1][1];
+            dp[i][0] = max(skip0, buy);
+            int skip1 = dp[i + 1][1];
+            int sell = prices[i] + dp[i + 2][0];
+            dp[i][1] = max(skip1, sell);
+        }
+        return dp[0][0];
     }
 };
