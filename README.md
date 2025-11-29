@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/ScrewedUP/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ScrewedUP/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/ScrewedUP/Leetcode/tree/master/0994-rotting-oranges) |
 | [1002-maximum-width-ramp](https://github.com/ScrewedUP/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/ScrewedUP/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ScrewedUP/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -550,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ScrewedUP/Leetcode/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/ScrewedUP/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ScrewedUP/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0994-rotting-oranges](https://github.com/ScrewedUP/Leetcode/tree/master/0994-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ScrewedUP/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ScrewedUP/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/ScrewedUP/Leetcode/tree/master/2035-count-sub-islands) |
@@ -661,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/ScrewedUP/Leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/ScrewedUP/Leetcode/tree/master/0684-redundant-connection) |
+| [0994-rotting-oranges](https://github.com/ScrewedUP/Leetcode/tree/master/0994-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ScrewedUP/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ScrewedUP/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/ScrewedUP/Leetcode/tree/master/2035-count-sub-islands) |
