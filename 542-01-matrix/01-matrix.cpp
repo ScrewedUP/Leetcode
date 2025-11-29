@@ -29,7 +29,7 @@ public:
                     if ( d_x < n && d_x >= 0 && d_y < m && d_y >=0 ){
                         if ( mat[d_x][d_y] == 1){
                             int ct = time;
-                            if ( ans[d_x][d_y] > ct ){
+                            if ( ans[d_x][d_y] == INT_MAX ){
                                 ans[d_x][d_y] = ct;
                                 q.push({d_x,d_y});
                             }
