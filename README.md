@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/ScrewedUP/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/ScrewedUP/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ScrewedUP/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/ScrewedUP/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ScrewedUP/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0526-beautiful-arrangement](https://github.com/ScrewedUP/Leetcode/tree/master/0526-beautiful-arrangement) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/ScrewedUP/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/ScrewedUP/Leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/ScrewedUP/Leetcode/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ScrewedUP/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/ScrewedUP/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -766,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ScrewedUP/Leetcode/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ScrewedUP/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Geometry
 |  |
@@ -778,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ScrewedUP/Leetcode/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ScrewedUP/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/ScrewedUP/Leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 ## Queue
