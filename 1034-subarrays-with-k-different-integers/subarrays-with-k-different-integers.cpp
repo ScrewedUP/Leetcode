@@ -1,23 +1,24 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int k){
-        int left = 0;
+    int f(vector<int> &nums,int k){
+        int l = 0;
         int n = nums.size();
-        int ans = 0;
+        int cnt = 0;
         map<int,int> m;
-        for (int right = 0; right < n; right++) {
-            m[nums[right]]++;
-            while(m.size() > k) {
-               m[nums[left]]--;
-               if ( m[nums[left]] == 0 ) m.erase(nums[left]);
-               left++;
+        for(int i = 0 ; i < n ; i++){
+            m[nums[i]]++;
+            while(m.size() > k ){
+                m[nums[l]]--;
+                if ( m[nums[l]] == 0) m.erase(nums[l]);
+                l++;
             }
-            ans += right - left + 1;
+            
+            cnt += (i - l + 1);
+            
         }
-        
-        return ans;
+        return cnt;
     }
     int subarraysWithKDistinct(vector<int>& nums, int k) {
-        return solve(nums,k) - solve(nums,k-1); 
+        return f(nums,k) - f(nums,k-1);
     }
 };
