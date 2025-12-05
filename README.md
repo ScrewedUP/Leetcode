@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1961-maximum-ice-cream-bars](https://github.com/ScrewedUP/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ScrewedUP/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ScrewedUP/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/ScrewedUP/Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2035-count-sub-islands](https://github.com/ScrewedUP/Leetcode/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/ScrewedUP/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/ScrewedUP/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/ScrewedUP/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ScrewedUP/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/ScrewedUP/Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2107-find-unique-binary-string](https://github.com/ScrewedUP/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ScrewedUP/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -558,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/ScrewedUP/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ScrewedUP/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ScrewedUP/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/ScrewedUP/Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ScrewedUP/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2832-find-the-longest-equal-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
@@ -596,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ScrewedUP/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ScrewedUP/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ScrewedUP/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/ScrewedUP/Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ScrewedUP/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ScrewedUP/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
