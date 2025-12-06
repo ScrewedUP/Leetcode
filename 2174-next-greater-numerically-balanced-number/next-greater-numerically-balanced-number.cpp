@@ -12,7 +12,7 @@ public:
     }
     int nextBeautifulNumber(int n) {
         if(n >= 666666) return 1224444;
-        for(int i = n+1 ; i <= 10000001 ; i++ ){
+        for(int i = n+1 ; i <= 666666 ; i++ ){
             if ( ok(to_string(i))){
                 return i;
             }
