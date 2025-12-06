@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool ok(string s){
-        map<int,int> m;
+        unordered_map<int,int> m;
         for(auto it : s){
             m[it-'0']++;
         }
