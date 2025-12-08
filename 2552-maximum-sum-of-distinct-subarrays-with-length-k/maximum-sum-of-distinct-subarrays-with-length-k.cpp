@@ -3,7 +3,7 @@ public:
     long long maximumSubarraySum(vector<int>& nums, int k) {
         int n = nums.size();
         int l = 0;
-        map<int,int> m;
+        unordered_map<int,int> m;
         long long maxi = 0;
         long long sum = 0;
         for(int i = 0 ; i < n ; i++){
