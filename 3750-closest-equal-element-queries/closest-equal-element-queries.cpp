@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> solveQueries(vector<int>& nums, vector<int>& queries) {
-        map<int,vector<int>> m;
+        unordered_map<int,vector<int>> m;
         int n = nums.size();
         for(int i = 0 ; i < n ; i++){
             m[nums[i]].push_back(i);
