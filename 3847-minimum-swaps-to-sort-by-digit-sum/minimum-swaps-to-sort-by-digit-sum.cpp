@@ -22,7 +22,7 @@ public:
             m2[vp[i].second] = i;
        }
        int cnt = 0;
-       for(auto &it : m2){
+       for(auto it : m2){
             int idx = it.second;
             int val = it.first;
             // cout << val << " " << idx << endl;
