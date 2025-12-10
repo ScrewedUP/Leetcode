@@ -12,6 +12,6 @@ public:
         for (int i = 1; i < n; i++) {
             x = (x * i) % M;
         }
-        return (int)x;
+        return x;
     }
 };
