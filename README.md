@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ScrewedUP/Leetcode/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/ScrewedUP/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/ScrewedUP/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/ScrewedUP/Leetcode/tree/master/0179-largest-number) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ScrewedUP/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ScrewedUP/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ScrewedUP/Leetcode/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/ScrewedUP/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/ScrewedUP/Leetcode/tree/master/0670-maximum-swap) |
@@ -513,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ScrewedUP/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ScrewedUP/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ScrewedUP/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0213-house-robber-ii) |
