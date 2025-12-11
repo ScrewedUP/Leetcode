@@ -10,7 +10,13 @@ public:
         for(int i = 0 ; i < n ; i++){
             m[s[i] - 'a']++;
             if ( i - l + 1 == p.size()){
-                if ( m == mp){
+                bool ok = true;
+                for(int j = 0 ; j < 26 ; j++){
+                    if ( m[j] != mp[j]){
+                        ok = false;
+                    }
+                }
+                if ( ok ){
                     ans.push_back(l);
                 }
                 m[s[l] - 'a']--;
