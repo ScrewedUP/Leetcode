@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ScrewedUP/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ScrewedUP/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ScrewedUP/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ScrewedUP/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2155-find-missing-observations](https://github.com/ScrewedUP/Leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ScrewedUP/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ScrewedUP/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/ScrewedUP/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ScrewedUP/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ScrewedUP/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ScrewedUP/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ScrewedUP/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2373-apply-discount-to-prices](https://github.com/ScrewedUP/Leetcode/tree/master/2373-apply-discount-to-prices) |
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/ScrewedUP/Leetcode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ScrewedUP/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ScrewedUP/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ScrewedUP/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ScrewedUP/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
