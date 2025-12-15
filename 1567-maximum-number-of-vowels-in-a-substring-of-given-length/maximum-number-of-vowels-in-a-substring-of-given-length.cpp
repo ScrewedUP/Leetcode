@@ -1,25 +1,26 @@
 class Solution {
 public:
-    bool f(char c){
-        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u'; 
+    bool isVowel(char c){
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
     }
     int maxVowels(string s, int k) {
-        int n = s.size();
         int l = 0;
-        int cnt = 0;
-        int ans = INT_MIN;
-        for(int i = 0 ; i < n ; i++){
-            if ( f(s[i])){
-                cnt++;
-            }
+        vector<int> v(26,0);
+        int maxi = 0;
+        for(int i = 0 ; i < s.size(); i++){
+            v[s[i] - 'a']++;
             if ( i - l + 1 == k){
-                ans = max(ans,cnt);
-                if ( f(s[l])){
-                    cnt--;
+                int curr = 0;
+                for(int j = 0 ; j < 26 ; j++){
+                    if ( isVowel(j+'a')){
+                        curr += v[j];
+                    }
                 }
+                v[s[l]-'a']--;
                 l++;
+                maxi = max(maxi,curr);
             }
-        }   
-        return ans;
+        }
+        return maxi;
     }
 };
