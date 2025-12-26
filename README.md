@@ -403,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2373-apply-discount-to-prices](https://github.com/ScrewedUP/Leetcode/tree/master/2373-apply-discount-to-prices) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ScrewedUP/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ScrewedUP/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ScrewedUP/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/ScrewedUP/Leetcode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ScrewedUP/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/ScrewedUP/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -764,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/ScrewedUP/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ScrewedUP/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/ScrewedUP/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ScrewedUP/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/ScrewedUP/Leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ScrewedUP/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2730-maximum-or](https://github.com/ScrewedUP/Leetcode/tree/master/2730-maximum-or) |
