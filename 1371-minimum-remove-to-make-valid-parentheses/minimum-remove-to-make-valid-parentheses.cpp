@@ -1,27 +1,41 @@
 class Solution {
 public:
     string minRemoveToMakeValid(string s) {
-        int n = s.size();
-        vector<bool> valid(n,false);
-        stack<pair<char,int>> st;
-        for(int i = 0 ; i < n ; i++){
+        int o = 0;
+        int cnt = 0;
+        vector<int> v;
+        map<int,int> m,m2;
+        for(int i = 0 ; i < s.size() ; i++){
             if ( s[i] == '('){
-                st.push({s[i],i});
-            }    
+                o++;
+                v.push_back(i);
+            }
             else if ( s[i] == ')'){
-                if ( st.size() > 0 ){
-                    auto top = st.top();
-                    st.pop();
-                    valid[top.second] = true;
-                    valid[i] = true;
+                if ( o > 0){
+                    o--;
+                    v.pop_back();
+                }
+                else{
+                    m[i]++;
                 }
             }
         }
+        for(auto it : v) m2[it]++;
+        for(auto it : m){
+            cout << it.first << endl;
+        }
         string ans;
-        for(int i = 0 ; i < n ; i++){
-            if ( s[i] == ')' || s[i] == '(' ){
-                if ( valid[i] ) ans += s[i];
-            } 
+        for(int i = 0 ; i < s.size() ; i++){
+            if ( s[i] == '('){
+                if ( m2.find(i) == m2.end()){
+                    ans += s[i];
+                }
+            }
+            else if ( s[i] == ')'){
+                if ( m.find(i) == m.end()){
+                    ans += s[i];
+                }
+            }
             else ans += s[i];
         }
         return ans;
