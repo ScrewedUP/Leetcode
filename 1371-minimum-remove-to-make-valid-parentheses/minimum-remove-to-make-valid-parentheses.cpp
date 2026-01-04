@@ -4,7 +4,7 @@ public:
         int o = 0;
         int cnt = 0;
         vector<int> v;
-        map<int,int> m,m2;
+        unordered_map<int,int> m,m2;
         for(int i = 0 ; i < s.size() ; i++){
             if ( s[i] == '('){
                 o++;
@@ -21,9 +21,6 @@ public:
             }
         }
         for(auto it : v) m2[it]++;
-        for(auto it : m){
-            cout << it.first << endl;
-        }
         string ans;
         for(int i = 0 ; i < s.size() ; i++){
             if ( s[i] == '('){
