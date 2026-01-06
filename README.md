@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/ScrewedUP/Leetcode/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/ScrewedUP/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/ScrewedUP/Leetcode/tree/master/0670-maximum-swap) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ScrewedUP/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ScrewedUP/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/ScrewedUP/Leetcode/tree/master/1304-longest-happy-string) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ScrewedUP/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/ScrewedUP/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/ScrewedUP/Leetcode/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ScrewedUP/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ScrewedUP/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ScrewedUP/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ScrewedUP/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1244-distinct-echo-substrings](https://github.com/ScrewedUP/Leetcode/tree/master/1244-distinct-echo-substrings) |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/ScrewedUP/Leetcode/tree/master/0726-number-of-atoms) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ScrewedUP/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ScrewedUP/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/ScrewedUP/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ScrewedUP/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
