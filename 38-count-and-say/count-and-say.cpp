@@ -13,21 +13,18 @@ public:
                 for(int j = 1 ; j < curr.size() ; j++){
                     if ( curr[j] == c ){
                         cnt++;
-                        if ( j == curr.size() - 1){
-                            temp += ( cnt + '0');
-                            temp += c;
-                        }
+                        
                     }
                     else{
                         temp += ( cnt + '0');
                         temp += c;
                         cnt = 1;
                         c = curr[j];
-                        if ( j == curr.size() - 1){
+                    }
+                    if ( j == curr.size() - 1){
                             temp += ( cnt + '0');
                             temp += c;
                         }
-                    }
                 }
             }
             curr = temp;
