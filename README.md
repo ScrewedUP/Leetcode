@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ScrewedUP/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/ScrewedUP/Leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3430-count-days-without-meetings](https://github.com/ScrewedUP/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/ScrewedUP/Leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ScrewedUP/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -646,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ScrewedUP/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2832-find-the-longest-equal-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3488-closest-equal-element-queries](https://github.com/ScrewedUP/Leetcode/tree/master/3488-closest-equal-element-queries) |
 ## Two Pointers
 |  |
