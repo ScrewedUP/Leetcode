@@ -11,16 +11,22 @@
  */
 class Solution {
 public:
-    int dfs(TreeNode* root){
-        if ( !root ) return 0;
-
-        int x = 1 + max(dfs(root->left),dfs(root->right));
-
-        return x;
-    }
     int maxDepth(TreeNode* root) {
         if ( !root ) return 0;
-        int x = dfs(root);
-        return x;
+
+        queue<TreeNode*> q;
+        int height = 0;
+        q.push(root);
+        while(!q.empty()){
+            height++;
+            int x = q.size();
+            for(int i = 0 ; i < x ; i++){
+                auto tp = q.front();
+                q.pop();
+                if ( tp->left ) q.push(tp->left);
+                if ( tp->right) q.push(tp->right);
+            }
+        }
+        return height;
     }
 };
