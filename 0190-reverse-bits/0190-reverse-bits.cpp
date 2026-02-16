@@ -1,11 +1,14 @@
 class Solution {
 public:
     int reverseBits(int n) {
-        bitset<32> b(n);
-        string s = b.to_string();
-        reverse(s.begin(),s.end());
-        int x = stoi(s,nullptr,2);
-        return x;
+        int ans = 0;
 
+        for (int i = 0; i < 32; i++) {
+            ans <<= 1;
+            ans |= (n & 1);
+            n >>= 1;
+        }
+
+        return ans;
     }
 };
