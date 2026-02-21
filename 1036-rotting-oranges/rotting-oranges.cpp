@@ -1,66 +1,45 @@
 class Solution {
 public:
-    int n,m;
+    int d[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};
     int orangesRotting(vector<vector<int>>& grid) {
-        n = grid.size();
-        m = grid[0].size();
-
-        vector<vector<int>> vis(n,vector<int>(m,0));
+        int n = grid.size();
+        int m = grid[0].size();
         queue<pair<int,int>> q;
-        int o = 0;
         for(int i = 0 ; i < n ; i++){
             for(int j = 0 ; j < m ; j++){
-                if ( grid[i][j] == 2) q.push({i,j});
-                if ( grid[i][j] == 1 ) o++;
+                if ( grid[i][j] == 2 ){
+                    q.push({i,j});
+                }
             }
         }
-        if ( o == 0 ) return 0;
         int cnt = 0;
-        while( !q.empty()){
-            cnt++;
+        while(!q.empty()){
             int x = q.size();
-            for(int i = 0 ; i < x ; i++){
-                auto front = q.front();
-                q.pop();
-                if ( front.first+1 < n && grid[front.first+1][front.second] == 1){
-                    grid[front.first+1][front.second] = 2; 
-                    q.push({front.first+1,front.second});
-                    
-                }
-                if ( front.first-1 >= 0 && grid[front.first-1][front.second] == 1){
-                    grid[front.first-1][front.second] = 2; 
-                    q.push({front.first-1,front.second});
-                    
-                }
-                if ( front.second+1 < m && grid[front.first][front.second+1] == 1){
-                    grid[front.first][front.second+1] = 2; 
-                    q.push({front.first,front.second+1});
-                    
-                }
-                if ( front.second-1 >= 0 &&grid[front.first][front.second-1] == 1){
-                    grid[front.first][front.second-1] = 2; 
-                    q.push({front.first,front.second-1});
-                    
-                }
+            bool ok = false;
+            for(int j = 0 ; j < x ; j++){
+                auto f = q.front(); q.pop();
                 
+                for(int i = 0 ; i < 4 ; i++){
+                    int dx = f.first + d[i][0];
+                    int dy = f.second + d[i][1];
+
+                    if ( dx >= 0 && dx < n && dy >= 0 && dy < m && grid[dx][dy] == 1){
+                        ok = true;
+                        grid[dx][dy] = 2;
+                        q.push({dx,dy});
+                    }
+                }
             }
+            if ( ok ) cnt++;
+            
         }
-        for(int i = 0 ;i < n ; i++){
+        for(int i = 0 ;i < n ; i++ ){
             for(int j = 0 ; j < m ; j++){
-                if ( grid[i][j] == 1){
+                if ( grid[i][j] == 1 ){
                     return -1;
                 }
             }
         }
-        return cnt - 1;
-        //bfs
-
+        return cnt;
     }
 };
-
-/*
-                2   2   2
-                0   2   2
-                1   0   2
-
-*/
