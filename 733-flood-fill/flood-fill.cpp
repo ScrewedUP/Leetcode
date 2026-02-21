@@ -8,7 +8,8 @@ public:
             neighbours whose value is the same as the current block
 
             this seems like level by level colouring 
-            BFS seems ideal here
+            BFS seems ideal here considering level order traversal
+            but DFS can do the same thing and easier without queue
 
     */
     int d[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};
