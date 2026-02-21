@@ -325,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/ScrewedUP/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/ScrewedUP/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/ScrewedUP/Leetcode/tree/master/0670-maximum-swap) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ScrewedUP/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0867-new-21-game](https://github.com/ScrewedUP/Leetcode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/ScrewedUP/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/ScrewedUP/Leetcode/tree/master/1240-stone-game-ii) |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/ScrewedUP/Leetcode/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/ScrewedUP/Leetcode/tree/master/0476-number-complement) |
 | [0526-beautiful-arrangement](https://github.com/ScrewedUP/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ScrewedUP/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ScrewedUP/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ScrewedUP/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/ScrewedUP/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
