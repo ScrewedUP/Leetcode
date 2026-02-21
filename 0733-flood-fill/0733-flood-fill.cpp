@@ -12,34 +12,26 @@ public:
             but DFS can do the same thing and easier without queue
 
     */
-    int d[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};
+
+    int n,m;
+    void dfs(int i,int j,vector<vector<int>> &image,int c,int nc){
+        if ( i >= n || i < 0 || j >= m || j < 0 || image[i][j] != c || image[i][j] == nc){
+            return;
+        }
+
+        image[i][j] = nc;
+
+        dfs(i-1,j,image,c,nc);
+        dfs(i+1,j,image,c,nc);
+        dfs(i,j-1,image,c,nc);
+        dfs(i,j+1,image,c,nc);
+    }
 
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int n = image.size();
-        int m = image[0].size();
-
-        int old = image[sr][sc];
-        if (old == color) return image; 
-
-        queue<pair<int,int>> q;
-        q.push({sr,sc});
-        image[sr][sc] = color;
-
-        while (!q.empty()) {
-            auto [x,y] = q.front(); q.pop();
-
-            for (int i = 0; i < 4; i++) {
-                int dx = x + d[i][0];
-                int dy = y + d[i][1];
-
-                if (dx >= 0 && dx < n && dy >= 0 && dy < m &&
-                    image[dx][dy] == old)
-                {
-                    image[dx][dy] = color;
-                    q.push({dx,dy});
-                }
-            }
-        }
+        int startColor = image[sr][sc];
+        n = image.size();
+        m = image[0].size();
+        dfs(sr,sc,image,startColor,color);
         return image;
     }
 };
