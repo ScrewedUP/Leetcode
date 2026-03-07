@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ScrewedUP/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3531-count-covered-buildings](https://github.com/ScrewedUP/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3583-count-special-triplets](https://github.com/ScrewedUP/Leetcode/tree/master/3583-count-special-triplets) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ScrewedUP/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3724-minimum-operations-to-transform-array](https://github.com/ScrewedUP/Leetcode/tree/master/3724-minimum-operations-to-transform-array) |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/ScrewedUP/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ScrewedUP/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/ScrewedUP/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3583-count-special-triplets](https://github.com/ScrewedUP/Leetcode/tree/master/3583-count-special-triplets) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/ScrewedUP/Leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Bit Manipulation
 |  |
@@ -766,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ScrewedUP/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ScrewedUP/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3583-count-special-triplets](https://github.com/ScrewedUP/Leetcode/tree/master/3583-count-special-triplets) |
 ## Shortest Path
 |  |
 | ------- |
