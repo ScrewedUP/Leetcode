@@ -491,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/ScrewedUP/Leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ScrewedUP/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2671-frequency-tracker](https://github.com/ScrewedUP/Leetcode/tree/master/2671-frequency-tracker) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ScrewedUP/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2832-find-the-longest-equal-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2834-relocate-marbles](https://github.com/ScrewedUP/Leetcode/tree/master/2834-relocate-marbles) |
@@ -821,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ScrewedUP/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ScrewedUP/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2671-frequency-tracker](https://github.com/ScrewedUP/Leetcode/tree/master/2671-frequency-tracker) |
 ## Binary Search Tree
 |  |
 | ------- |
