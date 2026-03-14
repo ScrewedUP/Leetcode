@@ -1,50 +1,33 @@
-#define pb push_back
 class Solution {
 public:
-    vector<string> all;
-    void solve(string s,int n){
-        if ( s.size() > n ) return;
+    vector<string> ans;
+    void solve(string s,int n,int l){
         if ( s.size() == n){
-            all.push_back(s);
+            ans.push_back(s);
             return;
         }
-        if ( s.size() == 0){
-            s.pb('a');
-            solve(s,n);
-            s.pop_back();
-            s.pb('b');
-            solve(s,n);
-            s.pop_back();
-            s.pb('c');
-            solve(s,n);
+
+        if ( l == 0){
+            solve(s + "a",n,1);
+            solve(s + "b",n,2);
+            solve(s + "c",n,3);
         }
-        else{
-            if ( s.back() == 'a'){
-                s.pb('b');
-                solve(s,n);
-                s.pop_back();
-                s.pb('c');
-                solve(s,n);
-            }
-            else if ( s.back() == 'b'){
-                s.pb('a');
-                solve(s,n);
-                s.pop_back();
-                s.pb('c');
-                solve(s,n);
-            }
-            else if ( s.back() == 'c'){
-                s.pb('a');
-                solve(s,n);
-                s.pop_back();
-                s.pb('b');
-                solve(s,n);
-            }
+        else if ( l == 1){
+            solve(s + "b",n,2);
+            solve(s + "c",n,3);
+        }
+        else if ( l == 2){
+            solve(s + "a",n,1);
+            solve(s + "c",n,3);
+        }
+        else if ( l == 3){
+            solve(s + "a",n,1);
+            solve(s + "b",n,2);
         }
     }
     string getHappyString(int n, int k) {
-        solve("",n);
-        if ( k > all.size() ) return "";
-        return all[k-1];
+        solve("",n,0);
+        if ( ans.size() < k ) return "";
+        return ans[k-1];
     }
 };
