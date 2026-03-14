@@ -1,13 +1,16 @@
 class Solution {
 public:
-    int dx[4] = {-1,0,1,0};
-    int dy[4] = {0,1,0,-1};
+    int d[4][2] = {{-1,0},{1,0},{0,-1},{0,1}};
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        queue<pair<int,int>> q;
+        /*
+            seems like a multisource bfs question
+        */
+
         int n = mat.size();
         int m = mat[0].size();
         vector<vector<int>> ans(n,vector<int>(m,INT_MAX));
-        for(int i = 0 ; i < n; i++){
+        queue<pair<int,int>> q;
+        for(int i = 0 ; i < n ; i++){
             for(int j = 0 ; j < m ; j++){
                 if ( mat[i][j] == 0){
                     ans[i][j] = 0;
@@ -15,24 +18,21 @@ public:
                 }
             }
         }
-        int time = 0;
-        while ( !q.empty() ){
-            int x = q.size();
-            time++;
-            while(x--){
-                auto t = q.front();
-                q.pop();
-                for(int i = 0 ; i < 4 ; i++){
-                    int d_x = t.first + dx[i];
-                    int d_y = t.second + dy[i];
 
-                    if ( d_x < n && d_x >= 0 && d_y < m && d_y >=0 ){
-                        if ( mat[d_x][d_y] == 1){
-                            int ct = time;
-                            if ( ans[d_x][d_y] == INT_MAX ){
-                                ans[d_x][d_y] = ct;
-                                q.push({d_x,d_y});
-                            }
+        int time = 0;
+        while( !q.empty()){
+            time++;
+            int x = q.size();
+            while(x--){
+                auto f = q.front();q.pop();
+                for(int i = 0 ; i < 4 ; i++){
+                    int dx = d[i][0] + f.first;
+                    int dy = d[i][1] + f.second;
+
+                    if ( dx < n && dx >= 0 && dy < m && dy >= 0 && mat[dx][dy] == 1){
+                        if ( ans[dx][dy] > time ){
+                            ans[dx][dy] = time;
+                            q.push({dx,dy});
                         }
                     }
                 }
