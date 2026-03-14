@@ -27,7 +27,6 @@ public:
     }
     string getHappyString(int n, int k) {
         solve("",n,0);
-        sort(ans.begin(),ans.end());
         if ( ans.size() < k ) return "";
         return ans[k-1];
     }
