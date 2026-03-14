@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1244-distinct-echo-substrings](https://github.com/ScrewedUP/Leetcode/tree/master/1244-distinct-echo-substrings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ScrewedUP/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1304-longest-happy-string](https://github.com/ScrewedUP/Leetcode/tree/master/1304-longest-happy-string) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ScrewedUP/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ScrewedUP/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ScrewedUP/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ScrewedUP/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -617,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0090-subsets-ii) |
 | [0526-beautiful-arrangement](https://github.com/ScrewedUP/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ScrewedUP/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ScrewedUP/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ScrewedUP/Leetcode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/ScrewedUP/Leetcode/tree/master/2107-find-unique-binary-string) |
