@@ -593,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/ScrewedUP/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0526-beautiful-arrangement](https://github.com/ScrewedUP/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/ScrewedUP/Leetcode/tree/master/0542-01-matrix) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/ScrewedUP/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0650-2-keys-keyboard](https://github.com/ScrewedUP/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ScrewedUP/Leetcode/tree/master/0664-strange-printer) |
 | [0867-new-21-game](https://github.com/ScrewedUP/Leetcode/tree/master/0867-new-21-game) |
