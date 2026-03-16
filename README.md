@@ -573,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/ScrewedUP/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/ScrewedUP/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ScrewedUP/Leetcode/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/ScrewedUP/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ScrewedUP/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ScrewedUP/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ScrewedUP/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -733,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/ScrewedUP/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/ScrewedUP/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ScrewedUP/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
@@ -799,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/ScrewedUP/Leetcode/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/ScrewedUP/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ScrewedUP/Leetcode/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/ScrewedUP/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/ScrewedUP/Leetcode/tree/master/0994-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ScrewedUP/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ScrewedUP/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -936,4 +939,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/ScrewedUP/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/ScrewedUP/Leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
