@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/ScrewedUP/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2834-relocate-marbles](https://github.com/ScrewedUP/Leetcode/tree/master/2834-relocate-marbles) |
 | [2846-robot-collisions](https://github.com/ScrewedUP/Leetcode/tree/master/2846-robot-collisions) |
+| [3174-clear-digits](https://github.com/ScrewedUP/Leetcode/tree/master/3174-clear-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3336-water-bottles-ii) |
 ## String
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ScrewedUP/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2854-decremental-string-concatenation](https://github.com/ScrewedUP/Leetcode/tree/master/2854-decremental-string-concatenation) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ScrewedUP/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3174-clear-digits](https://github.com/ScrewedUP/Leetcode/tree/master/3174-clear-digits) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ScrewedUP/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ScrewedUP/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/ScrewedUP/Leetcode/tree/master/3451-string-compression-iii) |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/ScrewedUP/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ScrewedUP/Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2846-robot-collisions](https://github.com/ScrewedUP/Leetcode/tree/master/2846-robot-collisions) |
+| [3174-clear-digits](https://github.com/ScrewedUP/Leetcode/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
