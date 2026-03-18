@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/ScrewedUP/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ScrewedUP/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1063-best-sightseeing-pair](https://github.com/ScrewedUP/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ScrewedUP/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1130-last-stone-weight-ii](https://github.com/ScrewedUP/Leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/ScrewedUP/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -669,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/ScrewedUP/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ScrewedUP/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/ScrewedUP/Leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ScrewedUP/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ScrewedUP/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ScrewedUP/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/ScrewedUP/Leetcode/tree/master/2035-count-sub-islands) |
@@ -806,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ScrewedUP/Leetcode/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/ScrewedUP/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/ScrewedUP/Leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ScrewedUP/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ScrewedUP/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ScrewedUP/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/ScrewedUP/Leetcode/tree/master/2035-count-sub-islands) |
