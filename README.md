@@ -583,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/ScrewedUP/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/ScrewedUP/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ScrewedUP/Leetcode/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ScrewedUP/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ScrewedUP/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ScrewedUP/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ScrewedUP/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -607,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/ScrewedUP/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0650-2-keys-keyboard](https://github.com/ScrewedUP/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ScrewedUP/Leetcode/tree/master/0664-strange-printer) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ScrewedUP/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/ScrewedUP/Leetcode/tree/master/0867-new-21-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/ScrewedUP/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ScrewedUP/Leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -757,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ScrewedUP/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ScrewedUP/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/ScrewedUP/Leetcode/tree/master/1304-longest-happy-string) |
@@ -797,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ScrewedUP/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/ScrewedUP/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ScrewedUP/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ScrewedUP/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -813,6 +817,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/ScrewedUP/Leetcode/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/ScrewedUP/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ScrewedUP/Leetcode/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ScrewedUP/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ScrewedUP/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/ScrewedUP/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ScrewedUP/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -952,5 +957,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/ScrewedUP/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ScrewedUP/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ScrewedUP/Leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
