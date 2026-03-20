@@ -390,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ScrewedUP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/ScrewedUP/Leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/ScrewedUP/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/ScrewedUP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ScrewedUP/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/ScrewedUP/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ScrewedUP/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -724,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ScrewedUP/Leetcode/tree/master/0011-container-with-most-water) |
+| [0151-reverse-words-in-a-string](https://github.com/ScrewedUP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ScrewedUP/Leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/ScrewedUP/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ScrewedUP/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
