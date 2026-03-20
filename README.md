@@ -388,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ScrewedUP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ScrewedUP/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/ScrewedUP/Leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/ScrewedUP/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/ScrewedUP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -597,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ScrewedUP/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/ScrewedUP/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ScrewedUP/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ScrewedUP/Leetcode/tree/master/0198-house-robber) |
@@ -724,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ScrewedUP/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ScrewedUP/Leetcode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/ScrewedUP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ScrewedUP/Leetcode/tree/master/0567-permutation-in-string) |
