@@ -3,33 +3,36 @@ public:
     /*
         in n^2 i need to check the longest palindrome
 
-        checking every substring take n^2 time , 
+        checking every substring take n^2 time , somehow n^3 solution is getting accepted
+        need to fix that , checking palindrome has to be there , the main n^2 needs to be optimized
+
 
     */
+    int dp[1001][1001];
+    bool p(string &s,int i,int j){
+        if ( i >= j ) return 1;
 
-    bool p(string &s){
-        int i = 0 , j = s.size() - 1;
-        while ( i < j ){
-            if ( s[i] != s[j]) return false;
-            i++;j--;
+        if ( dp[i][j] != -1 ) return dp[i][j];
+
+        if ( s[i] == s[j]){
+            return dp[i][j] = p(s,i+1,j-1);
         }
-        return true;
+        return 0;
     }
     string longestPalindrome(string s) {
-        int sz = 0;
-        string ans;
+        int sz = INT_MIN;
+        int st = 0;
+        memset(dp,-1,sizeof(dp));
         for(int i = 0 ; i < s.size() ; i++){
-            string temp;
             for(int j = i ; j < s.size() ; j++){
-                temp += s[j];
-                if ( p(temp)){
-                    if ( temp.size() > sz ){
-                        sz = temp.size();
-                        ans = temp;
+                if ( p(s,i,j) == true){
+                    if ( j - i + 1 > sz ){
+                        sz = j - i + 1;
+                        st = i;
                     }
                 }
             }
         }
-        return ans;
+        return s.substr(st,sz);
     }
 };
