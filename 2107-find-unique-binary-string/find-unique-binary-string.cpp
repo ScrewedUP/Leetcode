@@ -1,20 +1,26 @@
 class Solution {
 public:
     string findDifferentBinaryString(vector<string>& nums) {
-        // Fliping the ith bit of the i-th string will
-        // guarantee a different string from all the
-        // elements in the array 
-        // ans will differ from every string in at least one position
-        // Cantor's diagonal argumenti
-        string ans;
-        for(int i = 0 ; i < nums.size() ; i++){
-            if ( nums[i][i] == '0'){
-                ans += '1';
-            }
-            else{
-                ans += '0';
+        int n = nums.size();
+        map<string,int> m;
+        for(auto i : nums) m[i]++;
+
+        for(auto it : nums){
+            string curr = it;
+
+            for(int i = 0 ; i < curr.size() ; i++){
+                char c = curr[i];
+
+                if ( c == '0'){
+                    curr[i] = '1';
+                }
+                else curr[i] = '0';
+
+                if ( m.find(curr) == m.end()) return curr;
+
+                curr[i] = c;
             }
         }
-        return ans;
+        return "";
     }
 };
