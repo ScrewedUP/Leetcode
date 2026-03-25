@@ -1,43 +1,36 @@
 class Solution {
 public:
     bool canPartitionGrid(vector<vector<int>>& grid) {
-        long long sum = 0;
         int n = grid.size();
         int m = grid[0].size();
-        vector<long long> h(n);
-        vector<long long> v(m);
-        for(int i = 0 ; i < grid.size() ; i++){
-            long long currSum = 0;
-            for(int j  = 0 ; j < grid[0].size() ; j++){
+        vector<long long> h(n),v(m);
+        long long sum = 0;
+        long long currSum = 0;
+        for(int i = 0 ; i < n ; i++){
+            
+            for(int j = 0 ; j < m ; j++){
                 sum += grid[i][j];
                 currSum += grid[i][j];
             }
             h[i] = currSum;
         }
-
+        currSum = 0;
         for(int j = 0 ; j < m ; j++){
-            long long currSum = 0;
+            
             for(int i = 0 ; i < n ; i++){
                 currSum += grid[i][j];
             }
-            v[j] = currSum; 
+            v[j] = currSum;
+        }
+        for(int i = 0 ; i < n ; i++){
+            if ( sum - h[i] == h[i] ) return true;
         }
 
-        long long c = 0;
-        for(int i = 0 ; i < n ; i++){
-            c += h[i];
-            if ( sum - c == c ){
-                return true;
-            }
-        }
-        c = 0;
         for(int j = 0 ; j < m ; j++){
-            c += v[j];
-            if ( sum - c == c ){
-                return true;
-            }
+            if ( sum - v[j] == v[j] ) return true;
         }
 
         return false;
+
     }
 };
