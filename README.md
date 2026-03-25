@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/ScrewedUP/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3724-minimum-operations-to-transform-array](https://github.com/ScrewedUP/Leetcode/tree/master/3724-minimum-operations-to-transform-array) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/ScrewedUP/Leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/ScrewedUP/Leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3336-water-bottles-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
