@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minimumDistance(vector<int>& nums) {
-        map<int,vector<int>> m;
+        unordered_map<int,vector<int>> m;
         int ans = INT_MAX;
         for(int i = 0 ; i < nums.size() ; i++){
             m[nums[i]].push_back(i);
