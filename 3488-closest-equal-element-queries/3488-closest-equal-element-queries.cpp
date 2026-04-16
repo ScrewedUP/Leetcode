@@ -2,40 +2,62 @@ class Solution {
 public:
     vector<int> solveQueries(vector<int>& nums, vector<int>& queries) {
         unordered_map<int,vector<int>> m;
-        int n = nums.size();
-        for(int i = 0 ; i < n ; i++){
+        for(int i = 0 ; i < nums.size() ; i++){
             m[nums[i]].push_back(i);
         }
+
+        /*
+            here we will start to process the queries 
+
+            for queries[0] which is 0 ans nums[0] = 1
+
+            in map 1 -> 0,2,4
+
+            if it is present 2 or more times then we can caluclate the minimuim
+
+            find the index queries[i] in the vector
+
+            take the minimum of 
+                if 1st element , then the next one towards right or the back and the back
+                if last , then the first one towards left and the 0th one
+                if in between , the left and the right
+        */
         vector<int> ans;
-        for(int i = 0 ; i < queries.size() ; i++){
-            int curr = nums[queries[i]];
-            if ( m[curr].size() < 2 ){
+        for(int i : queries){
+            int val = nums[i];
+
+            if ( m[val].size() < 2 ){
                 ans.push_back(-1);
+                continue;
+            }
+
+            int posi = lower_bound(m[val].begin(),m[val].end(),i) - m[val].begin();
+            
+            /*
+                this posi is the index of i in m[val]
+                sor 1 -> 0 , 2 , 4
+
+                i is 0 so posi is also 0
+            */
+            int minDistance = INT_MAX;
+            int n = nums.size();
+            if ( posi == 0 ){
+                minDistance = min(minDistance,m[val][posi+1] - m[val][posi]);
+                minDistance = min(minDistance,n - m[val].back() + i);
+            }
+            else if ( posi == m[val].size() - 1){
+                minDistance = min(minDistance,m[val][posi] - m[val][posi-1]);
+                minDistance = min(minDistance,n - i + m[val][0]);
             }
             else{
-                int x = lower_bound(m[curr].begin(),m[curr].end(),queries[i]) - m[curr].begin();
-                int f = INT_MAX;
-                int sz = m[curr].size();
-
-                if ( x - 1 >= 0 ){
-                    int d = abs(m[curr][x-1] - m[curr][x]);
-                    f = min(f, min(d, n - d));
-                } else {
-                    int d = abs(m[curr][sz-1] - m[curr][x]);
-                    f = min(f, min(d, n - d));
-                }
-
-                if ( x + 1 < sz ){
-                    int d = abs(m[curr][x+1] - m[curr][x]);
-                    f = min(f, min(d, n - d));
-                } else {
-                    int d = abs(m[curr][0] - m[curr][x]);
-                    f = min(f, min(d, n - d));
-                }
-
-                ans.push_back(f);
+                minDistance = min(minDistance,m[val][posi] - m[val][posi-1]);
+                minDistance = min(minDistance,m[val][posi+1] - m[val][posi]);
             }
+
+            ans.push_back(minDistance);
+
         }
         return ans;
+
     }
 };
