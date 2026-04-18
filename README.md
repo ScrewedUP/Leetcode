@@ -383,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-water-bottles-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/ScrewedUP/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
