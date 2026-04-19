@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/ScrewedUP/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ScrewedUP/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1940-maximum-xor-for-each-query](https://github.com/ScrewedUP/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1961-maximum-ice-cream-bars](https://github.com/ScrewedUP/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ScrewedUP/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -751,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ScrewedUP/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ScrewedUP/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1631-path-with-minimum-effort](https://github.com/ScrewedUP/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ScrewedUP/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ScrewedUP/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/ScrewedUP/Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ScrewedUP/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -772,6 +774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ScrewedUP/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ScrewedUP/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ScrewedUP/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ScrewedUP/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ScrewedUP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2551-apply-operations-to-an-array) |
