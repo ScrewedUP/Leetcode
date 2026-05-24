@@ -8,10 +8,10 @@ public:
         return 0;
     }
     int passwordStrength(string password) {
-        map<char,int> m;
+        unordered_map<char,int> m;
         int cnt = 0;
         for(int i = 0 ; i < password.size() ; i++){
-            if ( m[password[i]] == 0){
+            if ( m.count(password[i]) == 0){
                 cnt += f(password[i]);
                 m[password[i]]++;
             }
