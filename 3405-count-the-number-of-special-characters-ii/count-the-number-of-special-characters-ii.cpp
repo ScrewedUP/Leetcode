@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        map<char,int> l,u;
+        unordered_map<char,int> l,u;
 
         for(int i = 0 ; i < word.size() ; i++){
             if ( word[i] >= 'a' && word[i] <= 'z'){
