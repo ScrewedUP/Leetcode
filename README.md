@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3583-count-special-triplets](https://github.com/ScrewedUP/Leetcode/tree/master/3583-count-special-triplets) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ScrewedUP/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ScrewedUP/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3724-minimum-operations-to-transform-array](https://github.com/ScrewedUP/Leetcode/tree/master/3724-minimum-operations-to-transform-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ScrewedUP/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ScrewedUP/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/ScrewedUP/Leetcode/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/ScrewedUP/Leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ScrewedUP/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3724-minimum-operations-to-transform-array](https://github.com/ScrewedUP/Leetcode/tree/master/3724-minimum-operations-to-transform-array) |
 ## Sorting
 |  |
