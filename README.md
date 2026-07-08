@@ -390,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-water-bottles-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ScrewedUP/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ScrewedUP/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ScrewedUP/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ScrewedUP/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/ScrewedUP/Leetcode/tree/master/3451-string-compression-iii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -950,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3034-points-that-intersect-with-cars](https://github.com/ScrewedUP/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ScrewedUP/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/ScrewedUP/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Game Theory
 |  |
 | ------- |
