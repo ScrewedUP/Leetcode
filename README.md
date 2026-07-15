@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ScrewedUP/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/ScrewedUP/Leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ScrewedUP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ScrewedUP/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/ScrewedUP/Leetcode/tree/master/3424-minimum-cost-to-make-arrays-identical) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ScrewedUP/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/ScrewedUP/Leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3336-water-bottles-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ScrewedUP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ScrewedUP/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -681,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2854-decremental-string-concatenation](https://github.com/ScrewedUP/Leetcode/tree/master/2854-decremental-string-concatenation) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ScrewedUP/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/ScrewedUP/Leetcode/tree/master/2916-check-if-it-is-possible-to-split-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ScrewedUP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ScrewedUP/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Backtracking
 |  |
@@ -1018,6 +1021,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1492-the-kth-factor-of-n](https://github.com/ScrewedUP/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ScrewedUP/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/ScrewedUP/Leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ScrewedUP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Queue
 |  |
 | ------- |
