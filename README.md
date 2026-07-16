@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/ScrewedUP/Leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/ScrewedUP/Leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3531-count-covered-buildings](https://github.com/ScrewedUP/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/ScrewedUP/Leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ScrewedUP/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
@@ -417,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3174-clear-digits](https://github.com/ScrewedUP/Leetcode/tree/master/3174-clear-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -801,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/ScrewedUP/Leetcode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ScrewedUP/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph
 |  |
 | ------- |
@@ -1022,6 +1027,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-closest-prime-numbers-in-range](https://github.com/ScrewedUP/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/ScrewedUP/Leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ScrewedUP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
 | ------- |
