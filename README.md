@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ScrewedUP/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ScrewedUP/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ScrewedUP/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/ScrewedUP/Leetcode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ScrewedUP/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ScrewedUP/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/ScrewedUP/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/ScrewedUP/Leetcode/tree/master/0877-stone-game) |
 | [1240-stone-game-ii](https://github.com/ScrewedUP/Leetcode/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ScrewedUP/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/ScrewedUP/Leetcode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ScrewedUP/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/ScrewedUP/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ScrewedUP/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -678,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/ScrewedUP/Leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/ScrewedUP/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/ScrewedUP/Leetcode/tree/master/1240-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/ScrewedUP/Leetcode/tree/master/1406-stone-game-iii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ScrewedUP/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ScrewedUP/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ScrewedUP/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -972,6 +975,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0877-stone-game](https://github.com/ScrewedUP/Leetcode/tree/master/0877-stone-game) |
 | [1240-stone-game-ii](https://github.com/ScrewedUP/Leetcode/tree/master/1240-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/ScrewedUP/Leetcode/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -1059,4 +1063,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/ScrewedUP/Leetcode/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ScrewedUP/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ScrewedUP/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
