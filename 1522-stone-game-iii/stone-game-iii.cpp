@@ -1,53 +1,26 @@
-
 class Solution {
 public:
-    int n;
-    vector<int> t;
+    int solve(int i ,vector<int> &nums,vector<int> &dp){
+        if ( i >= nums.size()) return 0;
 
-    int solve(vector<int>& stoneValue, int i) {
-        if (i == n) {
-            return 0;
-        }
+        if ( dp[i] != INT_MIN ) return dp[i];
+        int take1 = nums[i] - solve(i+1,nums,dp);
+        int take2 = -1e4;
+        if ( i + 1 < nums.size()) take2 = nums[i] + nums[i+1] - solve(i+2,nums,dp);
 
-        if (t[i] != -1) {
-            return t[i];
-        }
+        int take3 = -1e4;
 
-        t[i] = stoneValue[i] - solve(stoneValue, i + 1);
+        if ( i + 2 < nums.size()) take3 = nums[i] + nums[i+1] + nums[i+2] - solve(i+3,nums,dp);
 
-        if (i + 1 < n) {
-            t[i] = max(
-                t[i],
-                stoneValue[i] + stoneValue[i + 1] - solve(stoneValue, i + 2)
-            );
-        }
+        return dp[i] = max(take1,max(take2,take3));
 
-        if (i + 2 < n) {
-            t[i] = max(
-                t[i],
-                stoneValue[i] + stoneValue[i + 1] + stoneValue[i + 2]
-                - solve(stoneValue, i + 3)
-            );
-        }
-
-        return t[i];
     }
-
     string stoneGameIII(vector<int>& stoneValue) {
-        n = stoneValue.size();
+        vector<int> dp(stoneValue.size() + 1,INT_MIN);
+        int x = solve(0,stoneValue,dp);
 
-        t.resize(n + 1, -1);
-
-        int diff = solve(stoneValue, 0);
-
-        if (diff > 0) {
-            return "Alice";
-        }
-
-        if (diff < 0) {
-            return "Bob";
-        }
-
-        return "Tie";
+        if ( x > 0 ) return "Alice";
+        else if ( x == 0 ) return "Tie";
+        return "Bob";
     }
 };
