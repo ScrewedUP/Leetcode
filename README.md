@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/ScrewedUP/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/ScrewedUP/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/ScrewedUP/Leetcode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/ScrewedUP/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0526-beautiful-arrangement](https://github.com/ScrewedUP/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/ScrewedUP/Leetcode/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/ScrewedUP/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/ScrewedUP/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ScrewedUP/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ScrewedUP/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/ScrewedUP/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/ScrewedUP/Leetcode/tree/master/0726-number-of-atoms) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ScrewedUP/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ScrewedUP/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -520,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/ScrewedUP/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ScrewedUP/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ScrewedUP/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/ScrewedUP/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ScrewedUP/Leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/ScrewedUP/Leetcode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/ScrewedUP/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -988,6 +991,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ScrewedUP/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/ScrewedUP/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ScrewedUP/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Memoization
