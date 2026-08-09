@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/ScrewedUP/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ScrewedUP/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ScrewedUP/Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/ScrewedUP/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/0046-permutations) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ScrewedUP/Leetcode/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/ScrewedUP/Leetcode/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ScrewedUP/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ScrewedUP/Leetcode/tree/master/0455-assign-cookies) |
@@ -808,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ScrewedUP/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ScrewedUP/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ScrewedUP/Leetcode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/ScrewedUP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ScrewedUP/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/ScrewedUP/Leetcode/tree/master/0455-assign-cookies) |
