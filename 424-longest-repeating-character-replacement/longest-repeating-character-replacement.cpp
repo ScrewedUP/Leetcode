@@ -1,27 +1,21 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
+        map<int,int> m;
+        int l = 0;
+        int ans = 0;
         int maxi = 0;
-        int n = s.size();
-        for(int i = 0 ; i < 26 ; i++){
-            char c = 'A' + i;
-            int l = 0;
-            int cnt = 0;
-            int currMaxi = 0;
-            for(int r = 0 ; r < n ; r++){
-                if ( s[r] != c ){
-                    cnt++;
-                }
-                while(cnt > k){
-                    if ( s[l] != c){
-                        cnt--;
-                    }
-                    l++;
-                }
-                currMaxi = max(currMaxi,r-l+1);
+        for(int i = 0 ; i < s.size() ; i++){
+            m[s[i]]++;
+            maxi = max(maxi,m[s[i]]);
+            while((i-l+1 - maxi) > k ){
+                m[s[l]]--;
+                if ( m[s[l]] == 0) m.erase(s[l]);
+                l++;
             }
-            maxi = max(maxi,currMaxi);
+
+            ans = max(ans,i-l+1);
         }
-        return maxi;
+        return ans;
     }
 };
