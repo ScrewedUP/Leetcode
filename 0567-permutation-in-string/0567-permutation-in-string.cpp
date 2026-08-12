@@ -12,20 +12,11 @@ public:
             b[s2[i] - 'a']++;
 
             if ( i - l + 1 == x){
-                bool ok = true;
-                for(int j = 0 ; j < 26 ; j++){
-                    if ( a[j] != b[j]){
-                        ok = false;
-                    }
-                }
-
-                if ( ok ) return true;
+                if ( a == b ) return true;
                 b[s2[l] - 'a']--;
                 l++;
             }
         }
         return false;
-
-        return true;
     }
 };
