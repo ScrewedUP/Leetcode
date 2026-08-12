@@ -11,7 +11,6 @@ public:
 
             while ( m[nums[i]] > k){
                 m[nums[l]]--;
-                if ( m[nums[l]] == 0) m.erase(nums[l]);
                 l++;
             }
 
