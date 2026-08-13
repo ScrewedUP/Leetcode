@@ -1,26 +1,25 @@
 class Solution {
 public:
-    int dp[501][501][26];
-    int solve(int idx,int last,vector<int> &nums , int k){
-        if ( k < 0 ) return -1;
-        if ( idx >= nums.size() ){
+    int dp[501][502][26];
+    int solve(int i,int l,int t,vector<int> &nums,int &k){
+        if ( i >= nums.size()){
             return 0;
         }
-        if ( last != -1 && dp[idx][last][k] != -1 ) return dp[idx][last][k];
+
+        if ( dp[i][l][t] != -1 ) return dp[i][l][t];
+        int skip = solve(i+1,l,t,nums,k);
         int take = 0;
-        if ( last == -1 || nums[idx] == nums[last]){
-            take = 1 + solve(idx+1,idx,nums,k);
+        if ( l == 501 || nums[i] == nums[l] || t < k){
+            if ( l == 501 || nums[i] == nums[l]){
+                take = 1+solve(i+1,i,t,nums,k);
+            }
+            else take = 1+solve(i+1,i,t+1,nums,k);
         }
-        else{
-            take = 1 + solve(idx+1,idx,nums,k-1);
-            
-        }
-        int notTake = solve(idx+1,last,nums,k);
-        if ( last != -1  ) dp[idx][last][k] = max(take,notTake);
-        return max(take,notTake);
+
+        return dp[i][l][t] = max(take,skip);
     }
     int maximumLength(vector<int>& nums, int k) {
         memset(dp,-1,sizeof(dp));
-        return max(1,solve(0,-1,nums,k));
+        return solve(0,501,0,nums,k);
     }
 };
