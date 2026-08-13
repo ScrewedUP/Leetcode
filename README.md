@@ -393,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/ScrewedUP/Leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ScrewedUP/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2364-count-number-of-bad-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/2364-count-number-of-bad-pairs) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/ScrewedUP/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ScrewedUP/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/ScrewedUP/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ScrewedUP/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -1052,6 +1053,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/ScrewedUP/Leetcode/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ScrewedUP/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/ScrewedUP/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ScrewedUP/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Geometry
 |  |
