@@ -1,70 +1,66 @@
-class Trie {
-    struct Node {
-        Node* child[10];
-
-        Node() {
-            for (int i = 0; i < 10; i++)
-                child[i] = nullptr;
-        }
-    };
-
-    Node* root;
-
-public:
-    Trie() {
-        root = new Node();
-    }
-
-    void insert(int num) {
-        Node* curr = root;
-
-        string s = to_string(num);
-
-        for (char c : s) {
-            int digit = c - '0';
-
-            if (curr->child[digit] == nullptr) {
-                curr->child[digit] = new Node();
-            }
-
-            curr = curr->child[digit];
-        }
-    }
-
-    int getLCP(int num) {
-        Node* curr = root;
-        string s = to_string(num);
-
-        int len = 0;
-
-        for (char c : s) {
-            int digit = c - '0';
-
-            if (curr->child[digit] == nullptr)
-                break;
-
-            curr = curr->child[digit];
-            len++;
-        }
-
-        return len;
-    }
+struct TrieNode{
+    TrieNode* children[10];
 };
 class Solution {
 public:
-    int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
-        Trie t;
+    TrieNode* getTrieNode(){
+        TrieNode* node = new TrieNode();
 
-        for(auto i : arr2){
-            t.insert(i);
+        for(int i = 0 ; i < 10 ; i++){
+            node->children[i] = nullptr;
+        }
+
+        return node;
+    }
+
+    void insert(int num,TrieNode* root){
+        TrieNode* crawler = root;
+
+        string numStr = to_string(num);
+
+        for(auto d : numStr){
+            int idx = d - '0';
+
+            if ( !crawler->children[idx]){
+                crawler->children[idx] = getTrieNode();
+            }
+
+            crawler = crawler->children[idx];
+        }
+    }
+    int search(int num,TrieNode* root){
+        TrieNode* crawler = root;
+
+        string numStr = to_string(num);
+
+        int length = 0;
+
+        for(auto d : numStr){
+            int idx = d - '0';
+
+            if ( crawler->children[idx]){
+                length++;
+                crawler = crawler->children[idx];
+            }
+            else break;
+        }
+
+        return length;
+    }
+    int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
+
+        TrieNode* root = getTrieNode();
+
+        for(auto i : arr1){
+            insert(i,root);
         }
 
         int ans = 0;
 
-        for(auto i : arr1){
-            ans = max(ans,t.getLCP(i));
+        for(auto i : arr2){
+            ans = max(ans,search(i,root));
         }
-
+        
         return ans;
     }
 };
