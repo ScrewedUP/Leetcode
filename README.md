@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/ScrewedUP/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ScrewedUP/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3724-minimum-operations-to-transform-array](https://github.com/ScrewedUP/Leetcode/tree/master/3724-minimum-operations-to-transform-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ScrewedUP/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ScrewedUP/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -588,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ScrewedUP/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/ScrewedUP/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ScrewedUP/Leetcode/tree/master/3583-count-special-triplets) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ScrewedUP/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ScrewedUP/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -874,6 +876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/ScrewedUP/Leetcode/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/0948-sort-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ScrewedUP/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ScrewedUP/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -896,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ScrewedUP/Leetcode/tree/master/0948-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ScrewedUP/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -921,6 +925,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2351-first-letter-to-appear-twice](https://github.com/ScrewedUP/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2364-count-number-of-bad-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [3583-count-special-triplets](https://github.com/ScrewedUP/Leetcode/tree/master/3583-count-special-triplets) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ScrewedUP/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1004,6 +1009,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3034-points-that-intersect-with-cars](https://github.com/ScrewedUP/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ScrewedUP/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/ScrewedUP/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ScrewedUP/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Game Theory
 |  |
@@ -1112,4 +1118,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ScrewedUP/Leetcode/tree/master/1406-stone-game-iii) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ScrewedUP/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
