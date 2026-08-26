@@ -18,7 +18,6 @@ public:
             }
 
             if (cnt == k) {
-                // Remove leading zeroes
                 while (!d.empty() && d.front() == '0')
                     d.pop_front();
 
@@ -26,15 +25,13 @@ public:
                 for (auto x : d)
                     temp += x;
 
-                // First valid answer
                 if (ans2.empty()) {
                     ans2 = temp;
                 }
-                // Shorter is better
                 else if (temp.size() < ans2.size()) {
                     ans2 = temp;
                 }
-                // If same length, lexicographically smaller is better
+                
                 else if (temp.size() == ans2.size() && temp < ans2) {
                     ans2 = temp;
                 }
