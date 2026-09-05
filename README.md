@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3232-find-if-digit-game-can-be-won](https://github.com/ScrewedUP/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ScrewedUP/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ScrewedUP/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ScrewedUP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ScrewedUP/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ScrewedUP/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ScrewedUP/Leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -792,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/ScrewedUP/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ScrewedUP/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ScrewedUP/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ScrewedUP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ScrewedUP/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/ScrewedUP/Leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -893,6 +895,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ScrewedUP/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ScrewedUP/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2803-modify-graph-edge-weights](https://github.com/ScrewedUP/Leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ScrewedUP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ScrewedUP/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/ScrewedUP/Leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
@@ -938,6 +941,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ScrewedUP/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/ScrewedUP/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ScrewedUP/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ScrewedUP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Breadth-First Search
 |  |
@@ -960,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/ScrewedUP/Leetcode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ScrewedUP/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ScrewedUP/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ScrewedUP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ScrewedUP/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
@@ -1110,6 +1115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/ScrewedUP/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ScrewedUP/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ScrewedUP/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ScrewedUP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
