@@ -1034,6 +1034,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/ScrewedUP/Leetcode/tree/master/0002-add-two-numbers) |
 | [0725-split-linked-list-in-parts](https://github.com/ScrewedUP/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/ScrewedUP/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ScrewedUP/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2411-spiral-matrix-iv](https://github.com/ScrewedUP/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ScrewedUP/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Monotonic Stack
