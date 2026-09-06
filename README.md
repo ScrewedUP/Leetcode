@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/ScrewedUP/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/ScrewedUP/Leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/ScrewedUP/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/ScrewedUP/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ScrewedUP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ScrewedUP/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/ScrewedUP/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -686,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/ScrewedUP/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ScrewedUP/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ScrewedUP/Leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/ScrewedUP/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/ScrewedUP/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/ScrewedUP/Leetcode/tree/master/0233-number-of-digit-one) |
