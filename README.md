@@ -1135,4 +1135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ScrewedUP/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ScrewedUP/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
