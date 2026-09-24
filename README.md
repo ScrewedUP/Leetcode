@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ScrewedUP/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ScrewedUP/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3531-count-covered-buildings](https://github.com/ScrewedUP/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ScrewedUP/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/ScrewedUP/Leetcode/tree/master/3583-count-special-triplets) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-water-bottles-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ScrewedUP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ScrewedUP/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ScrewedUP/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ScrewedUP/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
