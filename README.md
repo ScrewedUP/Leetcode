@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/ScrewedUP/Leetcode/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/ScrewedUP/Leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ScrewedUP/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ScrewedUP/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3724-minimum-operations-to-transform-array](https://github.com/ScrewedUP/Leetcode/tree/master/3724-minimum-operations-to-transform-array) |
 ## Sorting
 |  |
@@ -426,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3345-smallest-divisible-digit-product-i](https://github.com/ScrewedUP/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ScrewedUP/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ScrewedUP/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ScrewedUP/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ScrewedUP/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ScrewedUP/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ScrewedUP/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
