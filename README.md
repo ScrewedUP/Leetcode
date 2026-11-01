@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/ScrewedUP/Leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ScrewedUP/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/ScrewedUP/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ScrewedUP/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/ScrewedUP/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/ScrewedUP/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0526-beautiful-arrangement](https://github.com/ScrewedUP/Leetcode/tree/master/0526-beautiful-arrangement) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/ScrewedUP/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/ScrewedUP/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ScrewedUP/Leetcode/tree/master/0326-power-of-three) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ScrewedUP/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0564-find-the-closest-palindrome](https://github.com/ScrewedUP/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ScrewedUP/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/ScrewedUP/Leetcode/tree/master/0650-2-keys-keyboard) |
